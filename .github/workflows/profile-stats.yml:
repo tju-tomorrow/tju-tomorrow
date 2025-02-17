@@ -21,7 +21,7 @@ jobs:
         uses: anmol098/waka-readme-stats@master
         with:
           
-          GH_TOKEN: ${{ secrets.profile_stats }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LINES_OF_CODE: "true"
           SHOW_PROFILE_VIEWS: "true"
           SHOW_COMMIT: "true"
