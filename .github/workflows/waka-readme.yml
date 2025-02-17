@@ -32,7 +32,6 @@ jobs:
           COMMIT_BY_ME: "True"               # 只显示我的提交
           
           # 图表
-          SHOW_LOC_CHART: "True"             # 显示代码行数图表
           
           # 其他设置
           IGNORED_REPOS: ""                  # 忽略的仓库，用逗号分隔
