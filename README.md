@@ -2,6 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=F73F89&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Victor;A+Passionate+Developer;Always+Chilling" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tju-tomorrow/Image/main/img/微信图片_202502171400.jpg" alt="profile banner" width="15%">
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tju-tomorrow&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</div>
+
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
@@ -70,12 +77,6 @@ HTML                     1 repo              ██░░░░░░░░░�
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/tju-tomorrow/tju-tomorrow/main/assets/bar_graph.png)
-
-
  Last Updated on 17/02/2025 08:02:34 UTC
 <!--END_SECTION:waka-->
 
@@ -86,11 +87,7 @@ Tianjin University, China
 College of Intelligence and Computing
 - 🎓 I am a sophomore majoring in computer science.
 
-[Click to see my full profile]([https://github.com/tju-tomorrow?tab=repositories](https://tju-tomorrow.github.io/personal/))
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tju-tomorrow/Image/main/img/微信图片_202502171400.jpg" alt="profile banner" width="30%">
-</div>
+[Click to see my full profile](https://tju-tomorrow.github.io/personal/)
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
@@ -119,9 +116,6 @@ College of Intelligence and Computing
   </p>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tju-tomorrow&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/tju-tomorrow/count.svg" alt="Visitor Count">
