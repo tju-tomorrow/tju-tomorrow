@@ -15,13 +15,13 @@ jobs:
       - name: Update README
         uses: jamesgeorge007/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.profile_stats }}
           
       - name: Generate stats image
         uses: anmol098/waka-readme-stats@master
         with:
           
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.profile_stats  }}
           SHOW_LINES_OF_CODE: "true"
           SHOW_PROFILE_VIEWS: "true"
           SHOW_COMMIT: "true"
