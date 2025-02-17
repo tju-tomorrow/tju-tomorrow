@@ -25,29 +25,27 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-🌆 Daytime                111 commits         █████████░░░░░░░░░░░░░░░░   37.12 % 
-🌃 Evening                118 commits         ██████████░░░░░░░░░░░░░░░   39.46 % 
-🌙 Night                  59 commits          █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+🌆 Daytime                114 commits         █████████░░░░░░░░░░░░░░░░   37.75 % 
+🌃 Evening                118 commits         ██████████░░░░░░░░░░░░░░░   39.07 % 
+🌙 Night                  59 commits          █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   71 commits          ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-Tuesday                  23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Wednesday                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Thursday                 58 commits          █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Friday                   37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Saturday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Sunday                   52 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Monday                   74 commits          ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+Tuesday                  23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Wednesday                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Thursday                 58 commits          █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Friday                   37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Saturday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Sunday                   52 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
@@ -72,7 +70,13 @@ HTML                     1 repo              ██░░░░░░░░░�
 ```
 
 
- Last Updated on 17/02/2025 07:47:22 UTC
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/tju-tomorrow/tju-tomorrow/main/assets/bar_graph.png)
+
+
+ Last Updated on 17/02/2025 07:59:56 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
