@@ -94,6 +94,7 @@ College of Intelligence and Computing
   <img src="https://github-readme-stats.vercel.app/api?username=tju-tomorrow&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=false&show_owner=true&card_width=495" alt="GitHub Stats">
    <!-- 添加loading属性和fallback样式 -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tju-tomorrow&theme=radical&hide_border=false" alt="GitHub Streak" loading="lazy" onerror="this.onerror=null;this.src='https://via.placeholder.com/495x195?text=Loading...';">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tju-tomorrow&theme=radical&hide_border=false" alt="GitHub Streak">
 </div>
 
 <div align="center">
