@@ -92,12 +92,10 @@ College of Intelligence and Computing
 <div align="center">
   <h3>📊 GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=tju-tomorrow&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=false&show_owner=true&card_width=495" alt="GitHub Stats">
-   <!-- 添加loading属性和fallback样式 -->
-    <!-- 使用两种备份方式确保至少一个能显示 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tju-tomorrow&theme=radical&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Streak">
+  <!-- 使用 anuraghazra 的 github-readme-stats -->
   
-  <!-- 带加载回退的版本 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tju-tomorrow&theme=radical&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Streak" loading="lazy" onerror="this.onerror=null;this.src='https://via.placeholder.com/495x195?text=Loading...';">
+  <!-- 使用 DenverCoder1 的 streak-stats -->
+  <img src="https://streak-stats.demolab.com?user=tju-tomorrow&theme=radical&hide_border=false" alt="GitHub Streak">
   
 </div>
 
