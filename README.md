@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F73F89&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Victor;A+Passionate+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=F73F89&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Victor;A+Passionate+Developer;Always+Chilling" alt="Typing SVG" />
 </div>
 
 ### 📊 Weekly Development Breakdown
@@ -72,12 +72,6 @@ HTML                     1 repo              ██░░░░░░░░░�
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/tju-tomorrow/tju-tomorrow/main/assets/bar_graph.png)
-
-
  Last Updated on 17/02/2025 07:47:22 UTC
 <!--END_SECTION:waka-->
 
@@ -91,7 +85,7 @@ College of Intelligence and Computing
 [Click to see my full profile]([https://github.com/tju-tomorrow?tab=repositories](https://tju-tomorrow.github.io/personal/))
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tju-tomorrow/Image/main/img/微信图片_202502171400.jpg" alt="profile banner">
+  <img src="https://raw.githubusercontent.com/tju-tomorrow/Image/main/img/微信图片_202502171400.jpg" alt="profile banner" width="30%">
 </div>
 
 <div align="center">
