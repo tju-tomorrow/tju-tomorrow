@@ -92,11 +92,9 @@ College of Intelligence and Computing
 <div align="center">
   <h3>📊 GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=tju-tomorrow&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=false&show_owner=true&card_width=495" alt="GitHub Stats">
-  <!-- 使用 anuraghazra 的 github-readme-stats -->
-  
-  <!-- 使用 DenverCoder1 的 streak-stats -->
-  <img src="https://streak-stats.demolab.com?user=tju-tomorrow&theme=radical&hide_border=false" alt="GitHub Streak">
-  <img src="[https://camo.githubusercontent.com/a85e97241cb44cab720a4e27e9e487ffc8dd3ee2aa9b790e9e49a1f4ba2686e9/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d746a752d746f6d6f72726f77267468656d653d7261646963616c26686964655f626f726465723d66616c7365]" alt="GitHub Streak">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tju-tomorrow&theme=radical&hide_border=false" alt="GitHub Streak">
+
   
 </div>
 
