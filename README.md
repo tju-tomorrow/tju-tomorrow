@@ -4,6 +4,81 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 291.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 205 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+🌆 Daytime                109 commits         █████████░░░░░░░░░░░░░░░░   36.70 % 
+🌃 Evening                118 commits         ██████████░░░░░░░░░░░░░░░   39.73 % 
+🌙 Night                  59 commits          █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   69 commits          ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+Tuesday                  23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Wednesday                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Thursday                 58 commits          █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+Friday                   37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Saturday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Sunday                   52 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+JavaScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+PostScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Batchfile                1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/tju-tomorrow/tju-tomorrow/main/assets/bar_graph.png)
+
+
+ Last Updated on 17/02/2025 07:35:34 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
