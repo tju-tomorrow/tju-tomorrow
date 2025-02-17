@@ -1,0 +1,32 @@
+name: GitHub Profile Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"    # 每天运行一次，午夜时分
+  workflow_dispatch:        # 允许手动触发
+
+jobs:
+  update-readme:
+    name: Update README with stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Update README
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          
+      - name: Generate stats image
+        uses: anmol098/waka-readme-stats@master
+        with:
+          
+          GH_TOKEN: ${{ secrets.profile_stats }}
+          SHOW_LINES_OF_CODE: "true"
+          SHOW_PROFILE_VIEWS: "true"
+          SHOW_COMMIT: "true"
+          SHOW_DAYS_OF_WEEK: "true"
+          SHOW_LANGUAGE: "true"
+          SHOW_OS: "true"
+          SHOW_PROJECTS: "true"
+          SHOW_TIMEZONE: "true"
