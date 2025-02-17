@@ -17,6 +17,8 @@ jobs:
           # 基础统计
           SHOW_LINES_OF_CODE: "True"          # 显示代码行数
           SHOW_TOTAL_CODE_TIME: "True"        # 显示总编码时间
+          SHOW_TIMEZONE: "false"      # 隐藏时区信息
+          HIDE_PROJECTS_WITHOUT_ACTIVITIES: "true"
           
           # 时间相关
           SHOW_DAYS_OF_WEEK: "True"          # 显示每周工作日数据
@@ -31,7 +33,6 @@ jobs:
           SHOW_SHORT_INFO: "True"            # 显示简短信息
           COMMIT_BY_ME: "True"               # 只显示我的提交
           
-          # 图表
           
           # 其他设置
           IGNORED_REPOS: ""                  # 忽略的仓库，用逗号分隔
