@@ -32,7 +32,7 @@ jobs:
           SHOW_COMMIT: "True"                # 显示提交信息
           SHOW_SHORT_INFO: "True"            # 显示简短信息
           COMMIT_BY_ME: "True"               # 只显示我的提交
-          
+          SHOW_LOC_CHART: "false"    
           
           # 其他设置
           IGNORED_REPOS: ""                  # 忽略的仓库，用逗号分隔
