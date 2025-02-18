@@ -11,17 +11,15 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-265-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 291.6 kB Used in GitHub's Storage 
+> 📦 292.8 kB Used in GitHub's Storage 
  > 
-> 🏆 211 Contributions in the Year 2025
+> 🏆 205 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,21 +30,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-🌆 Daytime                115 commits         █████████░░░░░░░░░░░░░░░░   37.95 % 
-🌃 Evening                118 commits         ██████████░░░░░░░░░░░░░░░   38.94 % 
-🌙 Night                  59 commits          █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+🌆 Daytime                118 commits         █████████░░░░░░░░░░░░░░░░   36.42 % 
+🌃 Evening                136 commits         ██████████░░░░░░░░░░░░░░░   41.98 % 
+🌙 Night                  59 commits          █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   75 commits          ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-Tuesday                  23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Wednesday                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Thursday                 58 commits          █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Friday                   37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Saturday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Sunday                   52 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Monday                   96 commits          ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+Tuesday                  23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Wednesday                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Thursday                 58 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Friday                   37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Saturday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Sunday                   52 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
 ```
 
 
@@ -54,16 +52,25 @@ Sunday                   52 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Stylus                   1 hr 45 mins        ███████████░░░░░░░░░░░░░░   45.19 % 
+Other                    1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+Markdown                 33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Windsurf                 2 hrs 17 mins       ███████████████░░░░░░░░░░   58.59 % 
+Cursor                   1 hr 37 mins        ██████████░░░░░░░░░░░░░░░   41.41 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+next                     2 hrs 45 mins       ██████████████████░░░░░░░   70.62 % 
+Github_readme            35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+NoSubmit                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+aiops-system             4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Blog                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +84,9 @@ HTML                     1 repo              ██░░░░░░░░░�
 ```
 
 
- Last Updated on 17/02/2025 08:02:34 UTC
+
+
+ Last Updated on 18/02/2025 01:24:05 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
