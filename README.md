@@ -98,16 +98,6 @@ College of Intelligence and Computing
 
 [Click to see my full profile](https://tju-tomorrow.github.io/personal/)
 
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=tju-tomorrow&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=false&show_owner=true&card_width=495" alt="GitHub Stats">
-
-  <img src="https://streak-stats.demolab.com?user=tju-tomorrow&theme=radical&hide_border=false" 
-     alt="GitHub Streak" 
-     onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/tju-tomorrow/Image/main/img/202502171920436.png';">
-
-  
-</div>
 
 <div align="center">
   <h3>💻 Languages and Tools</h3>
