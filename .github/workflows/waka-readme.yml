@@ -27,12 +27,15 @@ jobs:
           # 编码环境
           SHOW_PROJECTS: "True"              # 显示项目信息
           SHOW_LANGUAGE: "True"              # 显示编程语言
+          SHOW_EDITORS: "false"
+          SHOW_OS: "false"
           
           # 提交信息
           SHOW_COMMIT: "True"                # 显示提交信息
           SHOW_SHORT_INFO: "True"            # 显示简短信息
           COMMIT_BY_ME: "True"               # 只显示我的提交
           SHOW_LOC_CHART: "false"    
+          SHOW_LANGUAGE_PER_REPO: "True"
           
           # 其他设置
           IGNORED_REPOS: ""                  # 忽略的仓库，用逗号分隔
