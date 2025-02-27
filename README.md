@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-287-blue)
 
@@ -21,32 +21,30 @@
 
 > 📦 305.3 kB Used in GitHub's Storage 
  > 
-> 🏆 284 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-🌆 Daytime                126 commits         █████████░░░░░░░░░░░░░░░░   34.15 % 
-🌃 Evening                168 commits         ███████████░░░░░░░░░░░░░░   45.53 % 
-🌙 Night                  64 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+🌆 Daytime                126 commits         █████████░░░░░░░░░░░░░░░░   34.05 % 
+🌃 Evening                168 commits         ███████████░░░░░░░░░░░░░░   45.41 % 
+🌙 Night                  65 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   96 commits          ███████░░░░░░░░░░░░░░░░░░   26.02 % 
-Tuesday                  28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Wednesday                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Thursday                 63 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Friday                   63 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Saturday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Sunday                   57 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Monday                   96 commits          ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+Tuesday                  28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Wednesday                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Thursday                 64 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Friday                   63 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Saturday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Sunday                   57 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
 ```
 
 
@@ -54,18 +52,18 @@ Sunday                   57 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Stylus                   1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   30.44 % 
-Markdown                 1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
-Python                   35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-JavaScript               33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-CSS                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Python                   2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   37.20 % 
+Stylus                   1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Markdown                 1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+HTML                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+JavaScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 
 🐱‍💻 Projects: 
-next                     1 hr 29 mins        █████████░░░░░░░░░░░░░░░░   36.37 % 
-Blog                     59 mins             ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
-colorized-comments       28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Solution                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-themes                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+chenkaixuan              2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+next                     1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+Blog                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+web                      48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+colorized-comments       28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +79,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/02/2025 01:26:23 UTC
+ Last Updated on 27/02/2025 01:26:37 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
