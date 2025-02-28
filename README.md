@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-287-blue)
 
@@ -52,18 +52,18 @@ Sunday                   57 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   37.20 % 
-Stylus                   1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Markdown                 1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-HTML                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-JavaScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Python                   5 hrs 48 mins       ████████████████░░░░░░░░░   62.66 % 
+Markdown                 1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+HTML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+CSS                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🐱‍💻 Projects: 
-chenkaixuan              2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   29.37 % 
-next                     1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-Blog                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-web                      48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-colorized-comments       28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+chenkaixuan              5 hrs 21 mins       ██████████████░░░░░░░░░░░   57.83 % 
+Blog                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+web                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+next                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+colorized-comments       28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +79,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/02/2025 01:26:37 UTC
+ Last Updated on 28/02/2025 01:26:49 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
