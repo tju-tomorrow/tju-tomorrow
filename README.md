@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -52,18 +52,18 @@ Sunday                   58 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   36.15 % 
-Markdown                 1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-JavaScript               1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Stylus                   1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-HTML                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+JavaScript               1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Markdown                 1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Stylus                   1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Python                   1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+HTML                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
 
 🐱‍💻 Projects: 
-chenkaixuan              4 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   37.56 % 
-TakeOFF                  3 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-Blog                     1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-next                     1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-web                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+TakeOFF                  3 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   38.74 % 
+Blog                     1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+next                     1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+chenkaixuan              1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Lab                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +79,7 @@ Batchfile                1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/03/2025 01:36:24 UTC
+ Last Updated on 07/03/2025 01:36:36 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
