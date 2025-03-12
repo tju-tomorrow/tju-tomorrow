@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -19,32 +19,32 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 323.4 kB Used in GitHub's Storage 
+> 📦 323.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
  > 
-> 🔑 12 Private Repositories 
+> 🔑 13 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-🌆 Daytime                136 commits         ████████░░░░░░░░░░░░░░░░░   30.91 % 
+🌆 Daytime                137 commits         ████████░░░░░░░░░░░░░░░░░   31.14 % 
 🌃 Evening                186 commits         ███████████░░░░░░░░░░░░░░   42.27 % 
-🌙 Night                  107 commits         ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+🌙 Night                  106 commits         ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   101 commits         ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-Tuesday                  61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Monday                   99 commits          ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+Tuesday                  63 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
 Wednesday                25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 Thursday                 76 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Friday                   75 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Friday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
 Saturday                 43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Sunday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Sunday                   60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
 ```
 
 
@@ -52,18 +52,18 @@ Sunday                   59 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-JavaScript               1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Bash                     1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-CSS                      1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Markdown                 59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+C                        1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Bash                     1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+CSS                      1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+JavaScript               57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
 
 🐱‍💻 Projects: 
-TakeOFF                  3 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   35.00 % 
-APRT                     2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
-Blog                     1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-chenkaixuan              1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-并行计算                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+TakeOFF                  3 hrs 14 mins       ███████████░░░░░░░░░░░░░░   43.77 % 
+APRT                     2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+chenkaixuan              1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+并行计算                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Lab                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +79,7 @@ Batchfile                1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/03/2025 01:36:44 UTC
+ Last Updated on 12/03/2025 01:27:51 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
