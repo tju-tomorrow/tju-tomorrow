@@ -19,32 +19,32 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 324.0 kB Used in GitHub's Storage 
+> 📦 335.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
  > 
-> 🔑 13 Private Repositories 
+> 🔑 14 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-🌆 Daytime                137 commits         ████████░░░░░░░░░░░░░░░░░   31.14 % 
-🌃 Evening                186 commits         ███████████░░░░░░░░░░░░░░   42.27 % 
-🌙 Night                  106 commits         ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+🌆 Daytime                139 commits         ████████░░░░░░░░░░░░░░░░░   31.45 % 
+🌃 Evening                186 commits         ███████████░░░░░░░░░░░░░░   42.08 % 
+🌙 Night                  106 commits         ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   99 commits          ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-Tuesday                  63 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Wednesday                25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Thursday                 76 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Friday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Saturday                 43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Sunday                   60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Monday                   99 commits          ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+Tuesday                  63 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Wednesday                25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Thursday                 76 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Friday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Saturday                 45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Sunday                   60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
 ```
 
 
@@ -52,34 +52,34 @@ Sunday                   60 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-Bash                     1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-CSS                      59 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-JavaScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Bash                     1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
+CSS                      59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+C                        50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+JSON                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+JavaScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
 
 🐱‍💻 Projects: 
-TakeOFF                  2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   37.00 % 
-APRT                     2 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   34.17 % 
-chenkaixuan              1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-并行计算                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-MAC                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+TakeOFF                  2 hrs 17 mins       ████████████░░░░░░░░░░░░░   46.19 % 
+APRT                     1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   34.06 % 
+chenkaixuan              49 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+MAC                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+并行计算                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in JavaScript** 
 
 ```text
-Python                   4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-PostScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Batchfile                1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+Python                   4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+PostScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Batchfile                1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
 
 
- Last Updated on 15/03/2025 01:27:26 UTC
+ Last Updated on 16/03/2025 01:42:19 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
