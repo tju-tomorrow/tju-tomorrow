@@ -52,16 +52,10 @@ Sunday                   60 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     12 mins             █████████████████░░░░░░░░   67.63 % 
-Git Config               4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-TakeOFF                  9 mins              █████████████░░░░░░░░░░░░   50.89 % 
-MAC                      5 mins              ███████░░░░░░░░░░░░░░░░░░   28.43 % 
-并行计算                     3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,7 +71,7 @@ Batchfile                1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/03/2025 01:37:47 UTC
+ Last Updated on 19/03/2025 01:38:03 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
