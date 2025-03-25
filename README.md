@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -19,7 +19,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 335.6 kB Used in GitHub's Storage 
+> 📦 335.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,10 +52,11 @@ Sunday                   60 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        18 mins             ████████████████████████░   96.35 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+xv6-homework             19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -71,7 +72,7 @@ Batchfile                1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/03/2025 01:41:11 UTC
+ Last Updated on 25/03/2025 01:39:15 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
