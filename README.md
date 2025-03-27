@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -19,32 +19,32 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 335.7 kB Used in GitHub's Storage 
+> 📦 347.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 14 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-🌆 Daytime                139 commits         ████████░░░░░░░░░░░░░░░░░   31.45 % 
-🌃 Evening                186 commits         ███████████░░░░░░░░░░░░░░   42.08 % 
-🌙 Night                  106 commits         ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+🌆 Daytime                139 commits         ████████░░░░░░░░░░░░░░░░░   31.38 % 
+🌃 Evening                187 commits         ███████████░░░░░░░░░░░░░░   42.21 % 
+🌙 Night                  106 commits         ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   99 commits          ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
-Tuesday                  63 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Wednesday                25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Thursday                 76 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Friday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Saturday                 45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-Sunday                   60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Monday                   99 commits          ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+Tuesday                  63 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Wednesday                26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Thursday                 76 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Friday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Saturday                 45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Sunday                   60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
 ```
 
 
@@ -52,27 +52,32 @@ Sunday                   60 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        18 mins             ████████████████████████░   96.35 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+C                        1 hr 5 mins         ██████████████░░░░░░░░░░░   56.32 % 
+Markdown                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Docker                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+SSH Config               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Makefile                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
 
 🐱‍💻 Projects: 
-xv6-homework             19 mins             █████████████████████████   100.00 % 
+xv6-homework             1 hr 24 mins        ██████████████████░░░░░░░   73.19 % 
+xv6-public               22 mins             █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+Unknown Project          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
-Python                   4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
-Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-PostScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Batchfile                1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Python                   4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+PostScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
 
 
- Last Updated on 26/03/2025 01:38:41 UTC
+ Last Updated on 27/03/2025 01:38:28 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
