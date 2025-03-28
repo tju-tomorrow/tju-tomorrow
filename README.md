@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,16 +52,16 @@ Sunday                   60 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        1 hr 5 mins         ██████████████░░░░░░░░░░░   56.32 % 
-Markdown                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Docker                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-SSH Config               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Makefile                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+C                        1 hr 11 mins        █████████████░░░░░░░░░░░░   51.60 % 
+Markdown                 25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Makefile                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Docker                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+SSH Config               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
 
 🐱‍💻 Projects: 
-xv6-homework             1 hr 24 mins        ██████████████████░░░░░░░   73.19 % 
-xv6-public               22 mins             █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-Unknown Project          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+xv6-homework             1 hr 24 mins        ███████████████░░░░░░░░░░   60.72 % 
+xv6-public               45 mins             ████████░░░░░░░░░░░░░░░░░   32.83 % 
+Unknown Project          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,7 +77,7 @@ PostScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/03/2025 01:38:28 UTC
+ Last Updated on 28/03/2025 01:38:35 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
