@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,16 +52,17 @@ Sunday                   60 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        1 hr 11 mins        █████████████░░░░░░░░░░░░   51.60 % 
-Markdown                 25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Makefile                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Docker                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-SSH Config               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Python                   1 hr 47 mins        ███████████░░░░░░░░░░░░░░   42.69 % 
+C                        1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Makefile                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Docker                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 
 🐱‍💻 Projects: 
-xv6-homework             1 hr 24 mins        ███████████████░░░░░░░░░░   60.72 % 
-xv6-public               45 mins             ████████░░░░░░░░░░░░░░░░░   32.83 % 
-Unknown Project          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Code                     1 hr 51 mins        ███████████░░░░░░░░░░░░░░   44.29 % 
+xv6-homework             1 hr 25 mins        █████████░░░░░░░░░░░░░░░░   34.01 % 
+xv6-public               45 mins             █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Unknown Project          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,7 +78,7 @@ PostScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/03/2025 01:38:35 UTC
+ Last Updated on 29/03/2025 01:37:36 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
