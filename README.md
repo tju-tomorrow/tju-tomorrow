@@ -11,15 +11,15 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 347.7 kB Used in GitHub's Storage 
+> 📦 347.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,21 +30,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-🌆 Daytime                139 commits         ████████░░░░░░░░░░░░░░░░░   31.17 % 
-🌃 Evening                189 commits         ███████████░░░░░░░░░░░░░░   42.38 % 
-🌙 Night                  107 commits         ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+🌆 Daytime                141 commits         ████████░░░░░░░░░░░░░░░░░   30.39 % 
+🌃 Evening                193 commits         ██████████░░░░░░░░░░░░░░░   41.59 % 
+🌙 Night                  119 commits         ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   100 commits         ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-Tuesday                  63 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Wednesday                26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Thursday                 76 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Friday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Saturday                 47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Sunday                   60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Monday                   101 commits         █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+Tuesday                  73 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Wednesday                26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Thursday                 79 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Friday                   76 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Saturday                 48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Sunday                   61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
 ```
 
 
@@ -52,18 +52,18 @@ Sunday                   60 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-Markdown                 1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
-C                        1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-Lua                      55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Makefile                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Python                   2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+Markdown                 2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+C                        1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Lua                      55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Bash                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
 
 🐱‍💻 Projects: 
-Code                     2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-webServerStartCodes-2025 1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-xv6-homework             1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-Unknown Project          1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-xv6-public               1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+webServerStartCodes-2025 2 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+Code                     2 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+Unknown Project          1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+xv6-public               1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+xv6-homework             1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,7 +79,7 @@ PostScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/03/2025 01:43:44 UTC
+ Last Updated on 01/04/2025 01:49:43 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
