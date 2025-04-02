@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,18 +52,18 @@ Sunday                   61 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-Markdown                 2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-C                        1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Lua                      55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Bash                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Markdown                 2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+Python                   2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+C                        2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+Bash                     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Lua                      55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
 
 🐱‍💻 Projects: 
-webServerStartCodes-2025 2 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.20 % 
-Code                     2 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-Unknown Project          1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-xv6-public               1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-xv6-homework             1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+webServerStartCodes-2025 2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+Code                     2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+第二次                      2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+Unknown Project          1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+xv6-public               1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,7 +79,7 @@ PostScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2025 01:49:43 UTC
+ Last Updated on 02/04/2025 01:40:38 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
