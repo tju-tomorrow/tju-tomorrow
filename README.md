@@ -52,18 +52,18 @@ Sunday                   61 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
-Swift                    1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-Bash                     1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-C                        1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Lua                      55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Swift                    1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+Markdown                 1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+Bash                     1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+C                        50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+TypeScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 
 🐱‍💻 Projects: 
-webServerStartCodes-2025 2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
-第二次                      2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-meridian                 1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-VicNotes                 1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Unknown Project          1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+webServerStartCodes-2025 2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
+第二次                      2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+meridian                 1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+VicNotes                 1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Unknown Project          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,7 +79,7 @@ Stylus                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/04/2025 01:37:26 UTC
+ Last Updated on 06/04/2025 01:44:00 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
