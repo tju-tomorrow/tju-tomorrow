@@ -21,6 +21,8 @@
 
 > 📦 350.6 kB Used in GitHub's Storage 
  > 
+> 🏆 364 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -52,18 +54,18 @@ Sunday                   76 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 41 mins       ███████████░░░░░░░░░░░░░░   42.81 % 
-Bash                     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-C                        53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Markdown                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Text                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Python                   2 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   36.66 % 
+Bash                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+C                        49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Markdown                 44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Text                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
 
 🐱‍💻 Projects: 
-text-extract-api         4 hrs 27 mins       █████████████░░░░░░░░░░░░   51.75 % 
-第三次实验                    1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-webServerStartCodes-2025 1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-xv6-public               35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-datasets                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+text-extract-api         3 hrs 24 mins       ████████████░░░░░░░░░░░░░   46.90 % 
+第三次实验                    1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   26.45 % 
+webServerStartCodes-2025 57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+xv6-public               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+datasets                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +81,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2025 01:46:09 UTC
+ Last Updated on 22/04/2025 01:42:04 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
