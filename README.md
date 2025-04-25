@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
@@ -54,18 +54,16 @@ Sunday                   76 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 27 mins       ███████████████░░░░░░░░░░   60.28 % 
-C                        33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-YAML                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Python                   2 hrs 27 mins       ██████████████████░░░░░░░   72.53 % 
+YAML                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Docker                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 🐱‍💻 Projects: 
-text-extract-api         3 hrs 7 mins        ███████████████████░░░░░░   76.65 % 
-xv6-public               36 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-datasets                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-OS Lab                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-第三次实验                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+text-extract-api         3 hrs 7 mins        ███████████████████████░░   92.22 % 
+datasets                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+xv6-public               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +79,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/04/2025 01:42:25 UTC
+ Last Updated on 25/04/2025 01:43:10 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
