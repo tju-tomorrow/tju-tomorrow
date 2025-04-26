@@ -21,8 +21,6 @@
 
 > 📦 350.6 kB Used in GitHub's Storage 
  > 
-> 🏆 364 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -54,16 +52,14 @@ Sunday                   76 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 27 mins       ██████████████████░░░░░░░   72.53 % 
-YAML                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Docker                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Python                   2 hrs 26 mins       ███████████████████░░░░░░   77.94 % 
+YAML                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Docker                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-text-extract-api         3 hrs 7 mins        ███████████████████████░░   92.22 % 
-datasets                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-xv6-public               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+text-extract-api         3 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +75,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/04/2025 01:43:10 UTC
+ Last Updated on 26/04/2025 01:39:21 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
