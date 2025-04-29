@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -20,8 +20,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 354.4 kB Used in GitHub's Storage 
- > 
-> 🏆 370 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,20 +31,20 @@
 
 ```text
 🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-🌆 Daytime                152 commits         ████████░░░░░░░░░░░░░░░░░   30.46 % 
-🌃 Evening                208 commits         ██████████░░░░░░░░░░░░░░░   41.68 % 
-🌙 Night                  128 commits         ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+🌆 Daytime                152 commits         ████████░░░░░░░░░░░░░░░░░   30.40 % 
+🌃 Evening                208 commits         ██████████░░░░░░░░░░░░░░░   41.60 % 
+🌙 Night                  129 commits         ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   101 commits         █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-Tuesday                  75 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Wednesday                28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Thursday                 84 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Friday                   79 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Saturday                 55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Sunday                   77 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Monday                   101 commits         █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+Tuesday                  76 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Wednesday                28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Thursday                 84 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Friday                   79 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Saturday                 55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Sunday                   77 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
 ```
 
 
@@ -54,17 +52,18 @@ Sunday                   77 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 37 mins        ███████████░░░░░░░░░░░░░░   45.14 % 
-Bash                     32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-C++                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Vue.js                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Text                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Python                   1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   30.42 % 
+C++                      1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+C                        57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Bash                     50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Vue.js                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 
 🐱‍💻 Projects: 
-text-extract-api         2 hrs 19 mins       ████████████████░░░░░░░░░   64.58 % 
-第四次实验                    1 hr                ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-Blog                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+text-extract-api         2 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   39.37 % 
+第四次实验                    2 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   38.23 % 
+webServerStartCodes-2025 1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Blog                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 
 **I Mostly Code in Python** 
@@ -80,7 +79,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/04/2025 01:45:45 UTC
+ Last Updated on 29/04/2025 01:43:43 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
