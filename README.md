@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,18 +52,18 @@ Sunday                   77 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
-C++                      1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-C                        1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Bash                     57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Text                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Python                   3 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   32.19 % 
+C++                      1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+C                        1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Bash                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Text                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
 
 🐱‍💻 Projects: 
-text-extract-api         2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.64 % 
-第四次实验                    2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.78 % 
-webServerStartCodes-2025 1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-Blog                     1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-xv6-public               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+text-extract-api         3 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   39.16 % 
+第四次实验                    2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
+webServerStartCodes-2025 1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Blog                     1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+xv6-public               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +79,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/04/2025 01:43:01 UTC
+ Last Updated on 01/05/2025 01:51:46 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
