@@ -11,42 +11,42 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 356.1 kB Used in GitHub's Storage 
+> 📦 359.0 kB Used in GitHub's Storage 
  > 
-> 🏆 383 Contributions in the Year 2025
+> 🏆 393 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 13 Public Repositories 
  > 
-> 🔑 20 Private Repositories 
+> 🔑 22 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-🌆 Daytime                155 commits         ████████░░░░░░░░░░░░░░░░░   30.33 % 
-🌃 Evening                213 commits         ██████████░░░░░░░░░░░░░░░   41.68 % 
-🌙 Night                  132 commits         ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+🌆 Daytime                165 commits         ████████░░░░░░░░░░░░░░░░░   31.67 % 
+🌃 Evening                213 commits         ██████████░░░░░░░░░░░░░░░   40.88 % 
+🌙 Night                  132 commits         ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   101 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Tuesday                  77 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Wednesday                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Thursday                 84 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Friday                   86 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Saturday                 57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Sunday                   77 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Monday                   101 commits         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+Tuesday                  77 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Wednesday                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Thursday                 84 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Friday                   86 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Saturday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Sunday                   77 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
 ```
 
 
@@ -54,18 +54,18 @@ Sunday                   77 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 1 min         ███████████░░░░░░░░░░░░░░   43.89 % 
-C                        3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Markdown                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-C++                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Bash                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Python                   9 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.60 % 
+C                        3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Markdown                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+C++                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Text                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 🐱‍💻 Projects: 
-text-extract-api         5 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   26.41 % 
-simple_podcast           4 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-第四次实验                    2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Desktop                  2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-neuralnoise              1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+simple_podcast           7 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   34.91 % 
+text-extract-api         3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+第四次实验                    2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Desktop                  2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+neuralnoise              1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +81,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2025 01:41:22 UTC
+ Last Updated on 04/05/2025 01:52:19 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
