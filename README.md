@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -21,32 +21,30 @@
 
 > 📦 359.0 kB Used in GitHub's Storage 
  > 
-> 🏆 393 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
  > 
-> 🔑 22 Private Repositories 
+> 🔑 23 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-🌆 Daytime                165 commits         ████████░░░░░░░░░░░░░░░░░   31.67 % 
-🌃 Evening                213 commits         ██████████░░░░░░░░░░░░░░░   40.88 % 
-🌙 Night                  132 commits         ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
+🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+🌆 Daytime                165 commits         ████████░░░░░░░░░░░░░░░░░   31.61 % 
+🌃 Evening                213 commits         ██████████░░░░░░░░░░░░░░░   40.80 % 
+🌙 Night                  132 commits         ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   101 commits         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Tuesday                  77 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Wednesday                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Thursday                 84 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Friday                   86 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Saturday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Sunday                   77 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Monday                   102 commits         █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+Tuesday                  77 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Wednesday                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Thursday                 84 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Friday                   86 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Saturday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Sunday                   77 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
 ```
 
 
@@ -54,18 +52,18 @@ Sunday                   77 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.60 % 
-C                        3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Markdown                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-C++                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Text                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Python                   10 hrs 14 mins      ████████████░░░░░░░░░░░░░   49.12 % 
+C                        3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Markdown                 2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Text                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+C++                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🐱‍💻 Projects: 
-simple_podcast           7 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   34.91 % 
-text-extract-api         3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-第四次实验                    2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Desktop                  2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-neuralnoise              1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+simple_podcast           8 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   39.18 % 
+text-extract-api         3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Desktop                  2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+neuralnoise              1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+webServerStartCodes-2025 1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +79,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/05/2025 01:52:19 UTC
+ Last Updated on 05/05/2025 01:47:47 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
