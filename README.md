@@ -21,6 +21,8 @@
 
 > 📦 359.0 kB Used in GitHub's Storage 
  > 
+> 🏆 391 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -52,18 +54,18 @@ Sunday                   73 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   12 hrs 49 mins      ████████████████░░░░░░░░░   64.19 % 
-C                        2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Markdown                 2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Docker                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Text                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Python                   11 hrs 28 mins      ████████████████░░░░░░░░░   63.52 % 
+C                        2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Markdown                 2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Docker                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 🐱‍💻 Projects: 
-simple_podcast           10 hrs 43 mins      █████████████░░░░░░░░░░░░   53.73 % 
-text-extract-api         3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Desktop                  2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-neuralnoise              1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-deep-podcast             41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+simple_podcast           10 hrs 43 mins      ███████████████░░░░░░░░░░   59.37 % 
+Desktop                  2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+neuralnoise              1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+text-extract-api         1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+deep-podcast             41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +81,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2025 01:45:18 UTC
+ Last Updated on 08/05/2025 01:45:40 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
