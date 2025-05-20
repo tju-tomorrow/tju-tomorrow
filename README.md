@@ -54,18 +54,18 @@ Sunday                   73 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-Python                   3 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   27.04 % 
-Vue.js                   2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-C                        41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+JavaScript               3 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   33.14 % 
+Python                   3 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.05 % 
+Vue.js                   2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+C                        11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 🐱‍💻 Projects: 
-simple_podcast           5 hrs 41 mins       ████████████░░░░░░░░░░░░░   46.09 % 
-AI-knowledge-podcast-debu4 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   32.82 % 
-webServerStartCodes-2025 1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-xv6                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Blog                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+simple_podcast           5 hrs 6 mins        █████████████░░░░░░░░░░░░   50.86 % 
+AI-knowledge-podcast-debu4 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   40.32 % 
+Blog                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+JS                       11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+xv6                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +81,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2025 01:50:49 UTC
+ Last Updated on 20/05/2025 01:47:02 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
