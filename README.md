@@ -19,9 +19,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 359.2 kB Used in GitHub's Storage 
+> 📦 359.3 kB Used in GitHub's Storage 
  > 
-> 🏆 396 Contributions in the Year 2025
+> 🏆 397 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,21 +32,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-🌆 Daytime                159 commits         ████████░░░░░░░░░░░░░░░░░   30.29 % 
-🌃 Evening                217 commits         ██████████░░░░░░░░░░░░░░░   41.33 % 
-🌙 Night                  136 commits         ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+🌞 Morning                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+🌆 Daytime                160 commits         ████████░░░░░░░░░░░░░░░░░   30.42 % 
+🌃 Evening                217 commits         ██████████░░░░░░░░░░░░░░░   41.25 % 
+🌙 Night                  136 commits         ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   106 commits         █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-Tuesday                  74 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Wednesday                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Thursday                 89 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Friday                   86 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Saturday                 68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Sunday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Monday                   107 commits         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Tuesday                  74 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Wednesday                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Thursday                 89 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Friday                   86 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Saturday                 68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Sunday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
 ```
 
 
@@ -54,17 +54,18 @@ Sunday                   73 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        1 hr 8 mins         ███████████░░░░░░░░░░░░░░   43.83 % 
-JavaScript               35 mins             ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-Bash                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Vue.js                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Makefile                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+C                        1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   36.24 % 
+JavaScript               38 mins             █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+HTML                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Vue.js                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 
 🐱‍💻 Projects: 
-xv6                      53 mins             █████████░░░░░░░░░░░░░░░░   34.49 % 
-webServerStartCodes-2025 52 mins             ████████░░░░░░░░░░░░░░░░░   33.46 % 
-JS                       46 mins             ███████░░░░░░░░░░░░░░░░░░   29.76 % 
-temp                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+xv6                      53 mins             ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+webServerStartCodes-2025 52 mins             ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+JS                       46 mins             ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
+面试                       32 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+temp                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
 **I Mostly Code in Python** 
@@ -80,7 +81,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2025 01:49:33 UTC
+ Last Updated on 27/05/2025 01:45:12 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
