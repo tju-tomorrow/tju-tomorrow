@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
@@ -54,16 +54,13 @@ Sunday                   73 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     30 mins             ██████████████░░░░░░░░░░░   54.86 % 
-C                        17 mins             ████████░░░░░░░░░░░░░░░░░   32.55 % 
-JavaScript               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+HTML                     30 mins             ███████████████████████░░   91.58 % 
+JavaScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🐱‍💻 Projects: 
-面试                       32 mins             ███████████████░░░░░░░░░░   59.91 % 
-xv6                      18 mins             ████████░░░░░░░░░░░░░░░░░   33.61 % 
-temp                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+面试                       32 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +76,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2025 01:44:05 UTC
+ Last Updated on 01/06/2025 02:04:10 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
