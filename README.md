@@ -21,7 +21,7 @@
 
 > 📦 359.3 kB Used in GitHub's Storage 
  > 
-> 🏆 397 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,18 +54,18 @@ Sunday                   73 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue.js                   1 hr 27 mins        ████████░░░░░░░░░░░░░░░░░   32.68 % 
-Markdown                 1 hr                ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-Python                   48 mins             █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-C++                      27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-JavaScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Vue.js                   1 hr 27 mins        ██████████░░░░░░░░░░░░░░░   39.34 % 
+Python                   48 mins             █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+Markdown                 36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+JavaScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 
 🐱‍💻 Projects: 
-AI-knowledge-podcast-debu2 hrs 38 mins       ███████████████░░░░░░░░░░   59.37 % 
-Exp                      1 hr 39 mins        █████████░░░░░░░░░░░░░░░░   37.10 % 
-Intern                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Frontend                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-大作业                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+AI-knowledge-podcast-debu2 hrs 38 mins       ██████████████████░░░░░░░   71.47 % 
+Exp                      55 mins             ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+Intern                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Frontend                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+webServerStartCodes-2025 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +81,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2025 01:48:09 UTC
+ Last Updated on 13/06/2025 01:49:13 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
