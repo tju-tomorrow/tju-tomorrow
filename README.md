@@ -21,8 +21,6 @@
 
 > 📦 359.3 kB Used in GitHub's Storage 
  > 
-> 🏆 397 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -80,7 +78,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2025 01:45:30 UTC
+ Last Updated on 15/06/2025 01:58:31 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
