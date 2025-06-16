@@ -21,6 +21,8 @@
 
 > 📦 359.3 kB Used in GitHub's Storage 
  > 
+> 🏆 397 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -52,17 +54,16 @@ Sunday                   73 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue.js                   1 hr 26 mins        ████████████░░░░░░░░░░░░░   47.69 % 
-Python                   31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-JavaScript               27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Vue.js                   1 hr 23 mins        ███████████████░░░░░░░░░░   58.39 % 
+Python                   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+JavaScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 
 🐱‍💻 Projects: 
-AI-knowledge-podcast-debu2 hrs 38 mins       ██████████████████████░░░   87.68 % 
-Blog                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Frontend                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-webServerStartCodes-2025 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+AI-knowledge-podcast-debu2 hrs 1 min         █████████████████████░░░░   85.11 % 
+Blog                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Frontend                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 ```
 
 **I Mostly Code in Python** 
@@ -78,7 +79,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2025 01:58:31 UTC
+ Last Updated on 16/06/2025 01:52:58 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
