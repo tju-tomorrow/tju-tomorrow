@@ -54,12 +54,17 @@ Sunday                   73 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               9 mins              ████████████░░░░░░░░░░░░░   49.71 % 
-Markdown                 8 mins              ████████████░░░░░░░░░░░░░   48.79 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Python                   1 hr 7 mins         █████████████░░░░░░░░░░░░   51.80 % 
+Markdown                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Vue.js                   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+JavaScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 
 🐱‍💻 Projects: 
-Blog                     18 mins             █████████████████████████   100.00 % 
+AI-podcast               1 hr 29 mins        █████████████████░░░░░░░░   68.51 % 
+AI-knowledge-podcast-debu22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Blog                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Frontend                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,7 +80,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2025 01:49:45 UTC
+ Last Updated on 18/06/2025 01:48:47 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
