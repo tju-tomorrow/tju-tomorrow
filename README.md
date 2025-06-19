@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -54,17 +54,17 @@ Sunday                   73 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 7 mins         █████████████░░░░░░░░░░░░   51.80 % 
-Markdown                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Vue.js                   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-JavaScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Python                   1 hr 7 mins         ██████████░░░░░░░░░░░░░░░   41.39 % 
+Markdown                 36 mins             ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+Vue.js                   30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+JavaScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 
 🐱‍💻 Projects: 
-AI-podcast               1 hr 29 mins        █████████████████░░░░░░░░   68.51 % 
-AI-knowledge-podcast-debu22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Blog                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Frontend                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+AI-podcast               1 hr 49 mins        █████████████████░░░░░░░░   67.08 % 
+AI-knowledge-podcast-debu35 mins             █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+Blog                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Frontend                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 **I Mostly Code in Python** 
@@ -80,7 +80,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/06/2025 01:48:47 UTC
+ Last Updated on 19/06/2025 01:50:10 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
