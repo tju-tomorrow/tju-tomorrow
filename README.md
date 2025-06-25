@@ -54,16 +54,15 @@ Sunday                   73 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue.js                   2 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   36.94 % 
-Python                   2 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   34.11 % 
-Markdown                 40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-JavaScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Vue.js                   2 hrs 2 mins        ████████████░░░░░░░░░░░░░   47.59 % 
+Python                   58 mins             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+Markdown                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+JavaScript               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🐱‍💻 Projects: 
-AI-podcast               5 hrs 34 mins       ███████████████████████░░   90.39 % 
-AI-knowledge-podcast-debu35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Frontend                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+AI-podcast               4 hrs 5 mins        ████████████████████████░   95.08 % 
+AI-knowledge-podcast-debu12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +78,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/06/2025 01:50:33 UTC
+ Last Updated on 25/06/2025 01:50:28 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
