@@ -21,8 +21,6 @@
 
 > 📦 360.7 kB Used in GitHub's Storage 
  > 
-> 🏆 400 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -54,15 +52,14 @@ Sunday                   73 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue.js                   2 hrs 2 mins        ████████████░░░░░░░░░░░░░   47.59 % 
-Python                   58 mins             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-Markdown                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-JavaScript               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Vue.js                   1 hr 46 mins        ████████████░░░░░░░░░░░░░   47.59 % 
+Python                   58 mins             ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+JavaScript               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
 
 🐱‍💻 Projects: 
-AI-podcast               4 hrs 5 mins        ████████████████████████░   95.08 % 
-AI-knowledge-podcast-debu12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+AI-podcast               3 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -78,7 +75,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/06/2025 01:50:28 UTC
+ Last Updated on 26/06/2025 01:49:27 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
