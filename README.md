@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -19,7 +19,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 360.8 kB Used in GitHub's Storage 
+> 📦 364.1 kB Used in GitHub's Storage 
  > 
 > 🏆 403 Contributions in the Year 2025
  > 
@@ -32,21 +32,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-🌆 Daytime                166 commits         ████████░░░░░░░░░░░░░░░░░   30.68 % 
-🌃 Evening                221 commits         ██████████░░░░░░░░░░░░░░░   40.85 % 
-🌙 Night                  141 commits         ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+🌞 Morning                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+🌆 Daytime                175 commits         ████████░░░░░░░░░░░░░░░░░   31.82 % 
+🌃 Evening                221 commits         ██████████░░░░░░░░░░░░░░░   40.18 % 
+🌙 Night                  141 commits         ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   108 commits         █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Tuesday                  74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Wednesday                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-Thursday                 101 commits         █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-Friday                   88 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Saturday                 68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Sunday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Monday                   108 commits         █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Tuesday                  74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Wednesday                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Thursday                 101 commits         █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+Friday                   88 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Saturday                 77 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Sunday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
 ```
 
 
@@ -54,15 +54,15 @@ Sunday                   73 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs               █████████████░░░░░░░░░░░░   52.67 % 
-JSON                     1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
-Vue.js                   35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Python                   3 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   37.12 % 
+Vue.js                   1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+JSON                     1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+JavaScript               1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Markdown                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
 
 🐱‍💻 Projects: 
-AI-podcast               5 hrs 40 mins       █████████████████████████   99.10 % 
-Podcast-AI-2025          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+AI-podcast               9 hrs 29 mins       █████████████████████████   99.46 % 
+Podcast-AI-2025          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 
 **I Mostly Code in Python** 
@@ -78,7 +78,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/06/2025 01:46:27 UTC
+ Last Updated on 29/06/2025 02:00:08 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
