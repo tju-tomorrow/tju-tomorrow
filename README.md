@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -20,6 +20,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 364.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 403 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,15 +54,16 @@ Sunday                   74 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.52 % 
-JavaScript               3 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-Vue.js                   2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-JSON                     1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Markdown                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Python                   3 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+JavaScript               3 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+Vue.js                   3 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+JSON                     1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 
 🐱‍💻 Projects: 
-AI-podcast               12 hrs 35 mins      █████████████████████████   99.59 % 
-Podcast-AI-2025          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+AI-podcast               12 hrs 37 mins      ███████████████████████░░   93.29 % 
+temp                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Podcast-AI-2025          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 
 **I Mostly Code in Python** 
@@ -76,7 +79,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2025 02:01:29 UTC
+ Last Updated on 02/07/2025 01:50:14 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
