@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -19,7 +19,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 364.7 kB Used in GitHub's Storage 
+> 📦 364.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,21 +30,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-🌆 Daytime                178 commits         ████████░░░░░░░░░░░░░░░░░   32.19 % 
-🌃 Evening                221 commits         ██████████░░░░░░░░░░░░░░░   39.96 % 
-🌙 Night                  141 commits         ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+🌞 Morning                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+🌆 Daytime                192 commits         ████████░░░░░░░░░░░░░░░░░   33.63 % 
+🌃 Evening                224 commits         ██████████░░░░░░░░░░░░░░░   39.23 % 
+🌙 Night                  142 commits         ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   110 commits         █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-Tuesday                  74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Wednesday                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Thursday                 101 commits         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Friday                   88 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Saturday                 77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Sunday                   74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Monday                   111 commits         █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Tuesday                  74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Wednesday                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Thursday                 106 commits         █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+Friday                   90 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Saturday                 86 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Sunday                   75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
 ```
 
 
@@ -52,17 +52,16 @@ Sunday                   74 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 hrs 19 mins       ████████████████████░░░░░   79.60 % 
-Python                   35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Vue.js                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+JavaScript               5 hrs 9 mins        █████████████████████░░░░   82.71 % 
+Python                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Vue.js                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 🐱‍💻 Projects: 
-手写代码                     5 hrs 22 mins       ████████████████████░░░░░   80.58 % 
-AI-podcast               1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-temp                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+手写代码                     5 hrs 22 mins       ██████████████████████░░░   86.32 % 
+AI-podcast               49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 
 **I Mostly Code in Python** 
@@ -78,7 +77,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/07/2025 01:54:34 UTC
+ Last Updated on 12/07/2025 01:55:41 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
