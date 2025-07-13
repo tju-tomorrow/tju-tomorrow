@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,16 +52,15 @@ Sunday                   75 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 hrs 9 mins        █████████████████████░░░░   82.71 % 
-Python                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Vue.js                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+JavaScript               3 hrs 35 mins       ████████████████████░░░░░   79.96 % 
+Python                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+HTML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Vue.js                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🐱‍💻 Projects: 
-手写代码                     5 hrs 22 mins       ██████████████████████░░░   86.32 % 
-AI-podcast               49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+手写代码                     3 hrs 43 mins       █████████████████████░░░░   82.75 % 
+AI-podcast               46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +76,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2025 01:55:41 UTC
+ Last Updated on 13/07/2025 02:03:58 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
