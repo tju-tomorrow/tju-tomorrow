@@ -13,13 +13,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 364.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 405 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,16 +54,16 @@ Sunday                   75 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 58 mins       ███████████████████░░░░░░   75.16 % 
-Python                   26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-HTML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+JavaScript               1 hr 7 mins         ███████████████░░░░░░░░░░   60.40 % 
+Python                   26 mins             ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 
 🐱‍💻 Projects: 
-手写代码                     3 hrs 4 mins        ███████████████████░░░░░░   77.38 % 
-AI-podcast               49 mins             █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-BizyAir-master           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+手写代码                     56 mins             █████████████░░░░░░░░░░░░   51.14 % 
+AI-podcast               50 mins             ███████████░░░░░░░░░░░░░░   45.00 % 
+BizyAir-master           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +79,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2025 01:59:06 UTC
+ Last Updated on 16/07/2025 01:55:56 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
