@@ -54,16 +54,15 @@ Sunday                   75 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               48 mins             ██████████████░░░░░░░░░░░   57.45 % 
-Python                   26 mins             ████████░░░░░░░░░░░░░░░░░   31.40 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+JavaScript               16 mins             ████████████░░░░░░░░░░░░░   49.81 % 
+Python                   9 mins              ████████░░░░░░░░░░░░░░░░░   30.70 % 
+Markdown                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🐱‍💻 Projects: 
-AI-podcast               50 mins             ███████████████░░░░░░░░░░   59.44 % 
-手写代码                     29 mins             █████████░░░░░░░░░░░░░░░░   35.46 % 
-BizyAir-master           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+AI-podcast               27 mins             ██████████████████████░░░   86.64 % 
+BizyAir-master           4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +78,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2025 01:56:29 UTC
+ Last Updated on 18/07/2025 01:58:04 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
