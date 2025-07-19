@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -54,15 +54,15 @@ Sunday                   75 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               16 mins             ████████████░░░░░░░░░░░░░   49.81 % 
-Python                   9 mins              ████████░░░░░░░░░░░░░░░░░   30.70 % 
-Markdown                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+JavaScript               6 mins              ████████████░░░░░░░░░░░░░   48.10 % 
+Python                   2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Markdown                 2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+JSON                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🐱‍💻 Projects: 
-AI-podcast               27 mins             ██████████████████████░░░   86.64 % 
-BizyAir-master           4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+AI-podcast               8 mins              █████████████████░░░░░░░░   67.27 % 
+BizyAir-master           4 mins              ████████░░░░░░░░░░░░░░░░░   32.73 % 
 ```
 
 **I Mostly Code in Python** 
@@ -78,7 +78,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/07/2025 01:58:04 UTC
+ Last Updated on 19/07/2025 01:52:22 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
