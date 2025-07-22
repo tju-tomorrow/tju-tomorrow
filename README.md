@@ -13,21 +13,21 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 364.8 kB Used in GitHub's Storage 
+> 📦 399.8 kB Used in GitHub's Storage 
  > 
-> 🏆 405 Contributions in the Year 2025
+> 🏆 406 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
  > 
-> 🔑 18 Private Repositories 
+> 🔑 19 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -54,30 +54,26 @@ Sunday                   75 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 mins              ██████████████░░░░░░░░░░░   55.91 % 
-Markdown                 2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-JSON                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Python                   3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AI-podcast               6 mins              ███████████████░░░░░░░░░░   58.90 % 
-BizyAir-master           4 mins              ██████████░░░░░░░░░░░░░░░   41.10 % 
+AI-podcast               3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   6 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Vue                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
 
 
- Last Updated on 21/07/2025 02:02:47 UTC
+ Last Updated on 22/07/2025 01:57:06 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
