@@ -19,15 +19,15 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 399.8 kB Used in GitHub's Storage 
+> 📦 364.8 kB Used in GitHub's Storage 
  > 
-> 🏆 406 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
  > 
-> 🔑 19 Private Repositories 
+> 🔑 18 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -63,17 +63,17 @@ AI-podcast               3 mins              ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Vue                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Python                   6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
 
 
- Last Updated on 22/07/2025 01:57:06 UTC
+ Last Updated on 23/07/2025 01:57:56 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
