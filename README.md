@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -20,6 +20,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 365.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 430 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,15 +54,18 @@ Sunday                   85 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Git Config               5 mins              ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-Markdown                 5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
-Vue.js                   4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
-JSON                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Python                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Python                   1 hr 15 mins        █████████████████░░░░░░░░   67.00 % 
+JSON                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Vue.js                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 🐱‍💻 Projects: 
-AI-podcast               18 mins             █████████████████████░░░░   85.52 % 
-Unknown Project          3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+guardreasoner            56 mins             █████████████░░░░░░░░░░░░   50.51 % 
+代码                       21 mins             █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+AI-podcast               18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+GuardReasoner-main       11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 **I Mostly Code in Python** 
@@ -76,7 +81,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2025 01:40:11 UTC
+ Last Updated on 24/08/2025 01:53:01 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
