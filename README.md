@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -54,18 +54,15 @@ Sunday                   85 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 15 mins        █████████████████░░░░░░░░   67.00 % 
-JSON                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Vue.js                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Python                   2 hrs 11 mins       ████████████████████░░░░░   81.26 % 
+JSON                     26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+CSV                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-guardreasoner            56 mins             █████████████░░░░░░░░░░░░   50.51 % 
-代码                       21 mins             █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-AI-podcast               18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-GuardReasoner-main       11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+guardreasoner            1 hr 51 mins        █████████████████░░░░░░░░   69.08 % 
+GuardReasoner-main       25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+代码                       24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +78,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2025 01:53:01 UTC
+ Last Updated on 25/08/2025 01:48:14 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
