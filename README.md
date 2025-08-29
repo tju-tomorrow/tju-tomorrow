@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -54,15 +54,15 @@ Sunday                   85 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 11 mins       ████████████████████░░░░░   81.26 % 
-JSON                     26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-CSV                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   2 hrs 22 mins       ███████████████████░░░░░░   74.56 % 
+JSON                     44 mins             ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-guardreasoner            1 hr 51 mins        █████████████████░░░░░░░░   69.08 % 
-GuardReasoner-main       25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-代码                       24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+guardreasoner            2 hrs 20 mins       ██████████████████░░░░░░░   73.73 % 
+GuardReasoner-main       25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+代码                       24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
 ```
 
 **I Mostly Code in Python** 
@@ -78,7 +78,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2025 01:40:48 UTC
+ Last Updated on 29/08/2025 01:40:43 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
