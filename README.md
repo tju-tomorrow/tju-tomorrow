@@ -21,8 +21,6 @@
 
 > 📦 365.6 kB Used in GitHub's Storage 
  > 
-> 🏆 430 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -54,15 +52,15 @@ Sunday                   85 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 22 mins       ███████████████████░░░░░░   74.56 % 
-JSON                     44 mins             ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
-CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Python                   2 hrs 29 mins       █████████████████░░░░░░░░   67.07 % 
+JSON                     1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   31.37 % 
+CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-guardreasoner            2 hrs 20 mins       ██████████████████░░░░░░░   73.73 % 
-GuardReasoner-main       25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-代码                       24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+guardreasoner            2 hrs 52 mins       ███████████████████░░░░░░   77.52 % 
+GuardReasoner-main       25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+代码                       24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
 ```
 
 **I Mostly Code in Python** 
@@ -78,7 +76,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2025 01:40:43 UTC
+ Last Updated on 30/08/2025 01:28:07 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
