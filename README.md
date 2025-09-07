@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -20,8 +20,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 365.6 kB Used in GitHub's Storage 
- > 
-> 🏆 430 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,14 +52,15 @@ Sunday                   85 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     2 hrs 59 mins       ██████████████████░░░░░░░   71.97 % 
-Markdown                 35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Python                   30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+JSON                     2 hrs 59 mins       ███████████████░░░░░░░░░░   60.55 % 
+Java                     47 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+Markdown                 35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Python                   30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🐱‍💻 Projects: 
-guardreasoner            4 hrs 10 mins       █████████████████████████   100.00 % 
+guardreasoner            4 hrs 10 mins       █████████████████████░░░░   84.13 % 
+untitled                 47 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +76,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2025 01:28:02 UTC
+ Last Updated on 07/09/2025 01:43:10 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
