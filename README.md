@@ -54,15 +54,15 @@ Sunday                   85 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     2 hrs 55 mins       ███████████████░░░░░░░░░░   58.37 % 
-Java                     1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   28.09 % 
-Python                   30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Java                     1 hr 24 mins        ███████████████░░░░░░░░░░   60.64 % 
+JSON                     39 mins             ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+Python                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🐱‍💻 Projects: 
-guardreasoner            3 hrs 35 mins       ██████████████████░░░░░░░   71.85 % 
-untitled                 1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+untitled                 1 hr 24 mins        ███████████████░░░░░░░░░░   60.78 % 
+guardreasoner            54 mins             ██████████░░░░░░░░░░░░░░░   39.22 % 
 ```
 
 **I Mostly Code in Python** 
@@ -78,7 +78,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2025 01:42:57 UTC
+ Last Updated on 09/09/2025 01:39:56 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
