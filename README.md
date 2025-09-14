@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -19,34 +19,32 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 365.6 kB Used in GitHub's Storage 
- > 
-> 🏆 430 Contributions in the Year 2025
+> 📦 411.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
  > 
-> 🔑 18 Private Repositories 
+> 🔑 19 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-🌆 Daytime                236 commits         ██████████░░░░░░░░░░░░░░░   38.00 % 
-🌃 Evening                228 commits         █████████░░░░░░░░░░░░░░░░   36.71 % 
-🌙 Night                  144 commits         ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+🌆 Daytime                236 commits         █████████░░░░░░░░░░░░░░░░   37.88 % 
+🌃 Evening                229 commits         █████████░░░░░░░░░░░░░░░░   36.76 % 
+🌙 Night                  145 commits         ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   113 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Tuesday                  74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Wednesday                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-Thursday                 123 commits         █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Friday                   93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Saturday                 104 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Sunday                   85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Monday                   113 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Tuesday                  74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Wednesday                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Thursday                 123 commits         █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+Friday                   93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Saturday                 105 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Sunday                   86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
 ```
 
 
@@ -54,27 +52,32 @@ Sunday                   85 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 25 mins        █████████████████████████   99.78 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Java                     37 mins             ███████████░░░░░░░░░░░░░░   42.76 % 
+JSON                     25 mins             ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+C                        20 mins             ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🐱‍💻 Projects: 
-untitled                 1 hr 25 mins        █████████████████████████   100.00 % 
+untitled                 37 mins             ███████████░░░░░░░░░░░░░░   42.79 % 
+Env                      34 mins             ██████████░░░░░░░░░░░░░░░   39.68 % 
+tju_tcp                  15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   6 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+C                        3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
 
 
- Last Updated on 13/09/2025 01:24:05 UTC
+ Last Updated on 14/09/2025 01:42:44 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
