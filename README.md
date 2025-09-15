@@ -21,6 +21,8 @@
 
 > 📦 411.5 kB Used in GitHub's Storage 
  > 
+> 🏆 433 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -52,16 +54,14 @@ Sunday                   86 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     37 mins             ███████████░░░░░░░░░░░░░░   42.76 % 
-JSON                     25 mins             ███████░░░░░░░░░░░░░░░░░░   28.84 % 
-C                        20 mins             ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+C                        1 hr 5 mins         ███████████████░░░░░░░░░░   60.05 % 
+JSON                     25 mins             ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+Markdown                 17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🐱‍💻 Projects: 
-untitled                 37 mins             ███████████░░░░░░░░░░░░░░   42.79 % 
-Env                      34 mins             ██████████░░░░░░░░░░░░░░░   39.68 % 
-tju_tcp                  15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+tju_tcp                  1 hr 13 mins        █████████████████░░░░░░░░   67.98 % 
+Env                      34 mins             ████████░░░░░░░░░░░░░░░░░   32.02 % 
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +77,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2025 01:42:44 UTC
+ Last Updated on 15/09/2025 01:44:04 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
