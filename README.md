@@ -29,6 +29,38 @@
  > 
 > 🔑 19 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+🌆 Daytime                236 commits         █████████░░░░░░░░░░░░░░░░   37.88 % 
+🌃 Evening                229 commits         █████████░░░░░░░░░░░░░░░░   36.76 % 
+🌙 Night                  145 commits         ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   113 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Tuesday                  74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Wednesday                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Thursday                 123 commits         █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+Friday                   93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Saturday                 105 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Sunday                   86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C                        44 mins             ███████████████████░░░░░░   76.45 % 
+Markdown                 13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+
+🐱‍💻 Projects: 
+tju_tcp                  58 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -42,7 +74,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2025 01:45:36 UTC
+ Last Updated on 22/09/2025 01:45:37 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
