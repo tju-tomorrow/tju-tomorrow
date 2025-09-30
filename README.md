@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tju-tomorrow/Image/main/img/微信图片_202502171400.jpg" alt="profile banner" width="15%">
+  <img src="https://raw.githubusercontent.com/tju-tomorrow/Image/main/img/WechatIMG412.jpg" alt="profile banner" width="15%">
 </div>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tju-tomorrow&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
