@@ -11,42 +11,42 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-183%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 421.8 kB Used in GitHub's Storage 
+> 📦 422.3 kB Used in GitHub's Storage 
  > 
-> 🏆 438 Contributions in the Year 2025
+> 🏆 450 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 17 Public Repositories 
  > 
 > 🔑 19 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-🌆 Daytime                236 commits         █████████░░░░░░░░░░░░░░░░   37.64 % 
-🌃 Evening                229 commits         █████████░░░░░░░░░░░░░░░░   36.52 % 
-🌙 Night                  149 commits         ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+🌞 Morning                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+🌆 Daytime                244 commits         ██████████░░░░░░░░░░░░░░░   38.24 % 
+🌃 Evening                229 commits         █████████░░░░░░░░░░░░░░░░   35.89 % 
+🌙 Night                  152 commits         ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   113 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-Tuesday                  74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Wednesday                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Thursday                 123 commits         █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
-Friday                   93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Saturday                 109 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-Sunday                   86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Monday                   113 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Tuesday                  82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Wednesday                32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Thursday                 123 commits         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Friday                   93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Saturday                 109 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Sunday                   86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
 ```
 
 
@@ -54,18 +54,18 @@ Sunday                   86 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        8 hrs 30 mins       █████████████░░░░░░░░░░░░   52.44 % 
-Other                    2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Markdown                 1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Python                   1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+C                        8 hrs 26 mins       ███████████░░░░░░░░░░░░░░   42.38 % 
+Python                   3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Other                    3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Markdown                 2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 🐱‍💻 Projects: 
-tju_tcp_week2            8 hrs 10 mins       █████████████░░░░░░░░░░░░   50.40 % 
-tju_tcp                  5 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   31.09 % 
-Preseason2025            1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-dojo-blog                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-untitled                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+tju_tcp_week2            9 hrs 1 min         ███████████░░░░░░░░░░░░░░   45.36 % 
+tju_tcp                  8 hrs 29 mins       ███████████░░░░░░░░░░░░░░   42.67 % 
+Preseason2025            1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+dojo-blog                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+untitled                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +81,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2025 01:36:40 UTC
+ Last Updated on 01/10/2025 01:48:12 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
