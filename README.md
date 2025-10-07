@@ -54,18 +54,18 @@ Sunday                   86 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     3 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-Python                   2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Markdown                 2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-C                        2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-JavaScript               1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Java                     3 hrs 37 mins       ████████████░░░░░░░░░░░░░   46.09 % 
+Markdown                 1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+JavaScript               1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+TypeScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🐱‍💻 Projects: 
-tju_tcp                  5 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   40.21 % 
-Leetcode                 1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-spring-boot-realworld-exa1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-oss-fuzz                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-tju_tcp_week2            50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Leetcode                 1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+spring-boot-realworld-exa1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+oss-fuzz                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+React                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+ReactJS-Spring-Boot-CRUD-34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +81,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2025 01:39:42 UTC
+ Last Updated on 07/10/2025 01:37:20 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
