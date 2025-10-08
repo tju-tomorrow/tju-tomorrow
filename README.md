@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -54,18 +54,18 @@ Sunday                   86 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     3 hrs 37 mins       ████████████░░░░░░░░░░░░░   46.09 % 
-Markdown                 1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-JavaScript               1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-TypeScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Java                     3 hrs 42 mins       ██████████████░░░░░░░░░░░   54.73 % 
+Markdown                 1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+JavaScript               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+TypeScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 🐱‍💻 Projects: 
-Leetcode                 1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-spring-boot-realworld-exa1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-oss-fuzz                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-React                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-ReactJS-Spring-Boot-CRUD-34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+spring-boot-realworld-exa1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+oss-fuzz                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Leetcode                 1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Java Learning            53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+ReactJS-Spring-Boot-CRUD-34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +81,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2025 01:37:20 UTC
+ Last Updated on 08/10/2025 01:37:50 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
