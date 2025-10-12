@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -54,18 +54,18 @@ Sunday                   86 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   31.31 % 
-Java                     2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-JavaScript               2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-Markdown                 1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+TypeScript               3 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.96 % 
+Java                     2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.17 % 
+JavaScript               2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+TOML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 🐱‍💻 Projects: 
-next-app                 1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-next-notes               1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-oss-fuzz                 1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Leetcode                 1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-train-ticket-booking     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+next-app                 1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+next-notes               1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+train-ticket-booking     1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Leetcode                 1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Java Learning            53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +81,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2025 01:27:18 UTC
+ Last Updated on 12/10/2025 01:41:51 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
