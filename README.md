@@ -19,34 +19,34 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 422.9 kB Used in GitHub's Storage 
+> 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 453 Contributions in the Year 2025
+> 🏆 456 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 18 Public Repositories 
  > 
-> 🔑 19 Private Repositories 
+> 🔑 20 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-🌆 Daytime                244 commits         ██████████░░░░░░░░░░░░░░░   38.12 % 
-🌃 Evening                231 commits         █████████░░░░░░░░░░░░░░░░   36.09 % 
-🌙 Night                  152 commits         ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+🌞 Morning                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+🌆 Daytime                246 commits         ██████████░░░░░░░░░░░░░░░   38.32 % 
+🌃 Evening                231 commits         █████████░░░░░░░░░░░░░░░░   35.98 % 
+🌙 Night                  152 commits         ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   113 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-Tuesday                  82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Wednesday                32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Thursday                 123 commits         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Friday                   94 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Saturday                 110 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Sunday                   86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Monday                   115 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+Tuesday                  82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Wednesday                32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Thursday                 123 commits         █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Friday                   94 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Saturday                 110 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Sunday                   86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
 ```
 
 
@@ -54,18 +54,18 @@ Sunday                   86 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   35.15 % 
-JavaScript               3 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   33.76 % 
-Java                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Python                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+TypeScript               3 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   36.80 % 
+JavaScript               3 hrs 1 min         █████████░░░░░░░░░░░░░░░░   35.35 % 
+Java                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Python                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 🐱‍💻 Projects: 
-next-app                 1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-Code题                    1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-next-notes               1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-train-ticket-booking     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Java Learning            53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+next-app                 1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Code题                    1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+next-notes               1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+train-ticket-booking     1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Java Learning            33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +81,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2025 01:45:18 UTC
+ Last Updated on 14/10/2025 01:38:56 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
