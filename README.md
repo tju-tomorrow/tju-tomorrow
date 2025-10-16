@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-206%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -21,32 +21,32 @@
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 460 Contributions in the Year 2025
+> 🏆 462 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 18 Public Repositories 
  > 
-> 🔑 20 Private Repositories 
+> 🔑 21 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-🌆 Daytime                249 commits         ██████████░░░░░░░░░░░░░░░   38.54 % 
-🌃 Evening                232 commits         █████████░░░░░░░░░░░░░░░░   35.91 % 
-🌙 Night                  152 commits         ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+🌆 Daytime                249 commits         ██████████░░░░░░░░░░░░░░░   38.49 % 
+🌃 Evening                233 commits         █████████░░░░░░░░░░░░░░░░   36.01 % 
+🌙 Night                  152 commits         ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   115 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Tuesday                  86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Wednesday                32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-Thursday                 123 commits         █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-Friday                   94 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Saturday                 110 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Sunday                   86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Monday                   115 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Tuesday                  86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Wednesday                33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Thursday                 123 commits         █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Friday                   94 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Saturday                 110 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Sunday                   86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
 ```
 
 
@@ -54,34 +54,34 @@ Sunday                   86 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   36.32 % 
-JavaScript               3 hrs 1 min         █████████░░░░░░░░░░░░░░░░   34.88 % 
-Python                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+TypeScript               3 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.63 % 
+JavaScript               2 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   31.26 % 
+Python                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 🐱‍💻 Projects: 
-next-app                 1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-Code题                    1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-next-notes               1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-train-ticket-booking     1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-RN                       27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+next-app                 1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+Code题                    1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+next-notes               1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+train-ticket-booking     1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+NextJs                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-C                        4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Python                   7 repos             ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+C                        4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
 
 
- Last Updated on 15/10/2025 01:42:06 UTC
+ Last Updated on 16/10/2025 01:40:54 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
