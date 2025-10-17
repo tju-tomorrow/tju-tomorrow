@@ -54,18 +54,18 @@ Sunday                   86 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.63 % 
-JavaScript               2 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   31.26 % 
-Python                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+JavaScript               2 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   34.43 % 
+TypeScript               1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+Python                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+HTML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+C                        15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 🐱‍💻 Projects: 
-next-app                 1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-Code题                    1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-next-notes               1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-train-ticket-booking     1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-NextJs                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Code题                    1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   30.29 % 
+next-notes               1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+train-ticket-booking     1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+作业2_3023244015_陈凯旋       18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Go                       17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +81,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2025 01:40:54 UTC
+ Last Updated on 17/10/2025 01:39:49 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
