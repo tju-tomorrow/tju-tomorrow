@@ -11,9 +11,9 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -21,32 +21,32 @@
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 467 Contributions in the Year 2025
+> 🏆 468 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 17 Public Repositories 
  > 
-> 🔑 20 Private Repositories 
+> 🔑 22 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-🌆 Daytime                250 commits         ██████████░░░░░░░░░░░░░░░   38.34 % 
-🌃 Evening                238 commits         █████████░░░░░░░░░░░░░░░░   36.50 % 
-🌙 Night                  153 commits         ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+🌞 Morning                11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+🌆 Daytime                251 commits         ██████████░░░░░░░░░░░░░░░   38.15 % 
+🌃 Evening                239 commits         █████████░░░░░░░░░░░░░░░░   36.32 % 
+🌙 Night                  157 commits         ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   114 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Wednesday                32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-Thursday                 123 commits         █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Friday                   94 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Saturday                 110 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Sunday                   92 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Monday                   114 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Tuesday                  88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Wednesday                32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Thursday                 124 commits         █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+Friday                   98 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Saturday                 110 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Sunday                   92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
 ```
 
 
@@ -54,18 +54,18 @@ Sunday                   92 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     2 hrs 34 mins       ████████████░░░░░░░░░░░░░   48.86 % 
-Shell                    43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Bash                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Python                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Java                     4 hrs 7 mins        ██████████████░░░░░░░░░░░   55.11 % 
+Python                   48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Shell                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Bash                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 
 🐱‍💻 Projects: 
-sky-take-out             3 hrs 2 mins        ██████████████░░░░░░░░░░░   57.67 % 
-oh-my-zsh                43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-ARVO                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-untitled                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-Java                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+sky-take-out             3 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   40.69 % 
+untitled                 1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
+oh-my-zsh                43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+数值计算                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+ARVO                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +81,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2025 01:41:41 UTC
+ Last Updated on 24/10/2025 01:37:56 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
