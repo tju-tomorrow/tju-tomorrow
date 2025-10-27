@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -32,21 +32,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-🌆 Daytime                251 commits         ██████████░░░░░░░░░░░░░░░   38.15 % 
-🌃 Evening                239 commits         █████████░░░░░░░░░░░░░░░░   36.32 % 
-🌙 Night                  157 commits         ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
+🌞 Morning                11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+🌆 Daytime                253 commits         █████████░░░░░░░░░░░░░░░░   37.48 % 
+🌃 Evening                250 commits         █████████░░░░░░░░░░░░░░░░   37.04 % 
+🌙 Night                  161 commits         ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   114 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Tuesday                  88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Wednesday                32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-Thursday                 124 commits         █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Friday                   98 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Saturday                 110 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Sunday                   92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Monday                   114 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Tuesday                  90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Wednesday                32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Thursday                 124 commits         █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Friday                   102 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Saturday                 110 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Sunday                   103 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
 ```
 
 
@@ -54,18 +54,18 @@ Sunday                   92 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     4 hrs 7 mins        ███████████░░░░░░░░░░░░░░   42.66 % 
-Python                   1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Shell                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Go                       45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-Markdown                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Java                     4 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   37.65 % 
+Python                   2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Markdown                 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Shell                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Go                       45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 
 🐱‍💻 Projects: 
-sky-take-out             3 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   31.50 % 
-untitled                 1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
-oh-my-zsh                52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Django-Data-Analysis     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-Go                       45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+sky-take-out             3 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+untitled                 1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Django-Data-Analysis     1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+oh-my-zsh                52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Go                       45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +81,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2025 01:47:27 UTC
+ Last Updated on 27/10/2025 01:51:24 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
