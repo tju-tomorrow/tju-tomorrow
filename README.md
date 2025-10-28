@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -25,9 +25,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 18 Public Repositories 
  > 
-> 🔑 22 Private Repositories 
+> 🔑 21 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -54,18 +54,18 @@ Sunday                   103 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     4 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   37.65 % 
-Python                   2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-Markdown                 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Shell                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Go                       45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Java                     3 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   29.95 % 
+Python                   3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
+Markdown                 2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Shell                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Go                       45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 🐱‍💻 Projects: 
-sky-take-out             3 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-untitled                 1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Django-Data-Analysis     1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-oh-my-zsh                52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Go                       45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+sky-take-out             2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+CrawlData                1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+untitled                 1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Django-Data-Analysis     1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+ARVO                     1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +81,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2025 01:51:24 UTC
+ Last Updated on 28/10/2025 01:41:54 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
