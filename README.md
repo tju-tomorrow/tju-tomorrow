@@ -54,18 +54,18 @@ Sunday                   103 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     3 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-Python                   3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-Markdown                 2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Shell                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Go                       45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Python                   3 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.11 % 
+Java                     2 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
+Markdown                 2 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Go                       45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+JavaScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 
 🐱‍💻 Projects: 
-sky-take-out             2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-CrawlData                1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-untitled                 1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Django-Data-Analysis     1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-ARVO                     1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+CrawlData                1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+untitled                 1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Django-Data-Analysis     1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+ARVO                     1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Go                       45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +81,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2025 01:41:54 UTC
+ Last Updated on 29/10/2025 01:47:57 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
