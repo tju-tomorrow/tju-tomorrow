@@ -11,17 +11,17 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 469 Contributions in the Year 2025
+> 🏆 486 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,45 +29,6 @@
  > 
 > 🔑 21 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-🌆 Daytime                282 commits         ██████████░░░░░░░░░░░░░░░   39.83 % 
-🌃 Evening                253 commits         █████████░░░░░░░░░░░░░░░░   35.73 % 
-🌙 Night                  162 commits         ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   115 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Tuesday                  90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Wednesday                32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Thursday                 134 commits         █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-Friday                   104 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Saturday                 119 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Sunday                   114 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   3 hrs 36 mins       ████████████░░░░░░░░░░░░░   49.08 % 
-Markdown                 1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-JSON                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-
-🐱‍💻 Projects: 
-CrawlData                2 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   36.83 % 
-ARVO                     2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   35.03 % 
-AI-podcast               1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-Code                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-oss-fuzz                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -81,7 +42,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2025 01:49:19 UTC
+ Last Updated on 04/11/2025 01:44:50 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
