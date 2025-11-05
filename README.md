@@ -21,7 +21,7 @@
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 486 Contributions in the Year 2025
+> 🏆 497 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,6 +29,45 @@
  > 
 > 🔑 21 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+🌆 Daytime                285 commits         █████████░░░░░░░░░░░░░░░░   37.60 % 
+🌃 Evening                292 commits         ██████████░░░░░░░░░░░░░░░   38.52 % 
+🌙 Night                  170 commits         ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   118 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Tuesday                  107 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Wednesday                32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Thursday                 134 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+Friday                   112 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Saturday                 119 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Sunday                   136 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   2 hrs 8 mins        ████████████░░░░░░░░░░░░░   46.01 % 
+Markdown                 50 mins             █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+JSON                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+JavaScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+
+🐱‍💻 Projects: 
+AI-podcast               1 hr 40 mins        █████████░░░░░░░░░░░░░░░░   35.94 % 
+ARVO                     1 hr 40 mins        █████████░░░░░░░░░░░░░░░░   35.82 % 
+CrawlData                44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Code                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Django-Data-Analysis     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -42,7 +81,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2025 01:44:50 UTC
+ Last Updated on 05/11/2025 01:46:31 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
