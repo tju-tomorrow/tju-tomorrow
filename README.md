@@ -54,18 +54,18 @@ Sunday                   158 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs               ████████░░░░░░░░░░░░░░░░░   32.45 % 
-Java                     1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-Markdown                 1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-Vue.js                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Python                   2 hrs               ███████░░░░░░░░░░░░░░░░░░   28.49 % 
+Vue.js                   1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Java                     1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Markdown                 1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 🐱‍💻 Projects: 
-AI-podcast               2 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   39.74 % 
-Django-Data-Analysis     2 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.77 % 
-sky-take-out             1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
-Code                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-untitled                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Django-Data-Analysis     2 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   41.86 % 
+AI-podcast               2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   34.88 % 
+sky-take-out             1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+Code                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+untitled                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +81,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/11/2025 01:45:06 UTC
+ Last Updated on 08/11/2025 01:39:33 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
