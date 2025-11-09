@@ -11,17 +11,17 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 1.4 MB Used in GitHub's Storage 
+> 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 510 Contributions in the Year 2025
+> 🏆 534 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,21 +32,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-🌆 Daytime                291 commits         █████████░░░░░░░░░░░░░░░░   34.73 % 
-🌃 Evening                342 commits         ██████████░░░░░░░░░░░░░░░   40.81 % 
-🌙 Night                  194 commits         ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
+🌞 Morning                11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+🌆 Daytime                351 commits         █████████░░░░░░░░░░░░░░░░   37.18 % 
+🌃 Evening                358 commits         █████████░░░░░░░░░░░░░░░░   37.92 % 
+🌙 Night                  224 commits         ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   122 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Tuesday                  127 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Wednesday                32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Thursday                 144 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Friday                   136 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Saturday                 119 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Sunday                   158 commits         █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Monday                   124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Tuesday                  127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Wednesday                32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Thursday                 164 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Friday                   140 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Saturday                 147 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Sunday                   210 commits         ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
 ```
 
 
@@ -54,18 +54,18 @@ Sunday                   158 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs               ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-Vue.js                   1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Java                     1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Markdown                 1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Python                   2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+Markdown                 1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Vue.js                   1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Java                     1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Go                       1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
 
 🐱‍💻 Projects: 
-Django-Data-Analysis     2 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   41.86 % 
-AI-podcast               2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   34.88 % 
-sky-take-out             1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-Code                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-untitled                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+AI-podcast               3 hrs 56 mins       ███████████░░░░░░░░░░░░░░   42.60 % 
+Django-Data-Analysis     2 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.86 % 
+sky-take-out             1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Go                       39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+CH5                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +81,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2025 01:39:33 UTC
+ Last Updated on 09/11/2025 01:48:50 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
