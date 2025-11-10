@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -21,7 +21,7 @@
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 534 Contributions in the Year 2025
+> 🏆 543 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,21 +32,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-🌆 Daytime                351 commits         █████████░░░░░░░░░░░░░░░░   37.18 % 
-🌃 Evening                358 commits         █████████░░░░░░░░░░░░░░░░   37.92 % 
-🌙 Night                  224 commits         ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+🌞 Morning                11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+🌆 Daytime                352 commits         █████████░░░░░░░░░░░░░░░░   36.94 % 
+🌃 Evening                363 commits         ██████████░░░░░░░░░░░░░░░   38.09 % 
+🌙 Night                  227 commits         ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Tuesday                  127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Wednesday                32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Thursday                 164 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Friday                   140 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Saturday                 147 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Sunday                   210 commits         ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
+Monday                   127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Tuesday                  127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Wednesday                32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Thursday                 164 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Friday                   140 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Saturday                 147 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Sunday                   216 commits         ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
 ```
 
 
@@ -54,18 +54,18 @@ Sunday                   210 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-Markdown                 1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Vue.js                   1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Java                     1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Go                       1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Go                       4 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   31.41 % 
+Vue.js                   3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+Python                   1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Java                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Bash                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 
 🐱‍💻 Projects: 
-AI-podcast               3 hrs 56 mins       ███████████░░░░░░░░░░░░░░   42.60 % 
-Django-Data-Analysis     2 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.86 % 
-sky-take-out             1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Go                       39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-CH5                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+AI-podcast               10 hrs 10 mins      ████████████████░░░░░░░░░   65.76 % 
+Django-Data-Analysis     2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+sky-take-out             1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Go                       39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+CH5                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +81,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2025 01:48:50 UTC
+ Last Updated on 10/11/2025 01:50:25 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
