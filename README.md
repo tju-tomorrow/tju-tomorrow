@@ -54,18 +54,18 @@ Sunday                   216 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       6 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   39.23 % 
-Vue.js                   3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
-JavaScript               2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Bash                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Go                       6 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   41.13 % 
+Vue.js                   3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+JavaScript               2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Bash                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 🐱‍💻 Projects: 
-AI-podcast               12 hrs 35 mins      ███████████████████░░░░░░   75.45 % 
-Go                       1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Django-Data-Analysis     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-sky-take-out             39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-rabbitmq                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+AI-podcast               12 hrs 30 mins      ████████████████████░░░░░   78.32 % 
+Go                       1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Django-Data-Analysis     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+rabbitmq                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+CH5                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +81,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2025 01:46:19 UTC
+ Last Updated on 13/11/2025 01:47:41 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
