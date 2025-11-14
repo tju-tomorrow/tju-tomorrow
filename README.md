@@ -21,7 +21,7 @@
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 543 Contributions in the Year 2025
+> 🏆 544 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,20 +33,20 @@
 
 ```text
 🌞 Morning                11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-🌆 Daytime                352 commits         █████████░░░░░░░░░░░░░░░░   36.94 % 
-🌃 Evening                363 commits         ██████████░░░░░░░░░░░░░░░   38.09 % 
-🌙 Night                  227 commits         ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+🌆 Daytime                352 commits         █████████░░░░░░░░░░░░░░░░   36.90 % 
+🌃 Evening                363 commits         ██████████░░░░░░░░░░░░░░░   38.05 % 
+🌙 Night                  228 commits         ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Tuesday                  127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Wednesday                32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-Thursday                 164 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Friday                   140 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Saturday                 147 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Sunday                   216 commits         ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+Monday                   127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Tuesday                  127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Wednesday                32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Thursday                 164 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Friday                   141 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Saturday                 147 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Sunday                   216 commits         ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
 ```
 
 
@@ -54,18 +54,18 @@ Sunday                   216 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       6 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   41.13 % 
-Vue.js                   3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-JavaScript               2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Bash                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Go                       6 hrs 34 mins       ███████████░░░░░░░░░░░░░░   44.27 % 
+Vue.js                   2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+JavaScript               1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Bash                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Other                    55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 
 🐱‍💻 Projects: 
-AI-podcast               12 hrs 30 mins      ████████████████████░░░░░   78.32 % 
-Go                       1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Django-Data-Analysis     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-rabbitmq                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-CH5                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+AI-podcast               11 hrs 50 mins      ████████████████████░░░░░   79.77 % 
+Go                       1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Django-Data-Analysis     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+rabbitmq                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+CH5                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +81,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2025 01:47:41 UTC
+ Last Updated on 14/11/2025 01:47:24 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
