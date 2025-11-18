@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -54,17 +54,18 @@ Sunday                   216 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   37.33 % 
-Go                       2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.52 % 
-Vue.js                   56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Go                       2 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   36.35 % 
+JavaScript               1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Markdown                 53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Vue.js                   45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
 
 🐱‍💻 Projects: 
-AI-podcast               3 hrs 50 mins       ███████████████░░░░░░░░░░   58.02 % 
-软工                       1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-Go                       1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-rabbitmq                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+AI-podcast               2 hrs 37 mins       ███████████░░░░░░░░░░░░░░   42.62 % 
+软工                       2 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   38.52 % 
+Go                       52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+rabbitmq                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+实验                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 
 **I Mostly Code in Python** 
@@ -80,7 +81,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/11/2025 01:47:37 UTC
+ Last Updated on 18/11/2025 01:45:39 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
