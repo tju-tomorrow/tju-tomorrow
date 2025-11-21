@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -54,18 +54,18 @@ Sunday                   216 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       2 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   37.25 % 
-JavaScript               1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
-Markdown                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Vue.js                   45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Go                       2 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   36.03 % 
+JavaScript               1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+Markdown                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Vue.js                   45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 🐱‍💻 Projects: 
-AI-podcast               4 hrs 23 mins       ███████████████░░░░░░░░░░   59.87 % 
-软工                       2 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   32.38 % 
-手撕                       18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-Go                       12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-实验                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+AI-podcast               4 hrs 23 mins       ██████████████░░░░░░░░░░░   57.80 % 
+软工                       2 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   31.26 % 
+手撕                       18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Go                       12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+6                        12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +81,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/11/2025 01:44:43 UTC
+ Last Updated on 21/11/2025 01:45:36 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
