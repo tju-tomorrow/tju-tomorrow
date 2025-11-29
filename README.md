@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -54,16 +54,12 @@ Sunday                   217 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 49 mins        ███████████████░░░░░░░░░░   60.09 % 
-Go                       35 mins             █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-Markdown                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-Vue.js                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+JavaScript               1 hr 27 mins        █████████████████████░░░░   85.25 % 
+Go                       15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
 
 🐱‍💻 Projects: 
-AI-podcast               1 hr 28 mins        ████████████░░░░░░░░░░░░░   48.95 % 
-手撕                       1 hr 27 mins        ████████████░░░░░░░░░░░░░   48.08 % 
-Code                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+手撕                       1 hr 40 mins        █████████████████████████   98.34 % 
+AI-podcast               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +75,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/11/2025 01:45:14 UTC
+ Last Updated on 29/11/2025 01:44:43 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
