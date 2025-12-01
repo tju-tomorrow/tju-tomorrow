@@ -54,8 +54,8 @@ Sunday                   217 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 27 mins        █████████████████████░░░░   85.25 % 
-Go                       15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+JavaScript               1 hr 25 mins        █████████████████████░░░░   83.80 % 
+Go                       16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
 
 🐱‍💻 Projects: 
 手撕                       1 hr 40 mins        █████████████████████████   98.34 % 
@@ -75,7 +75,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2025 01:57:38 UTC
+ Last Updated on 01/12/2025 02:05:22 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
