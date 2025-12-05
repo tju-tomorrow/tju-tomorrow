@@ -54,14 +54,13 @@ Sunday                   217 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               31 mins             ████████████████░░░░░░░░░   62.39 % 
-Go                       16 mins             ████████░░░░░░░░░░░░░░░░░   32.36 % 
-Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Go                       16 mins             ██████████████████████░░░   86.05 % 
+Python                   2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 
 🐱‍💻 Projects: 
-手撕                       46 mins             ███████████████████████░░   91.43 % 
-Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-AI-podcast               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+手撕                       14 mins             ███████████████████░░░░░░   77.21 % 
+Unknown Project          2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+AI-podcast               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +76,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/12/2025 01:49:58 UTC
+ Last Updated on 05/12/2025 01:50:27 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
