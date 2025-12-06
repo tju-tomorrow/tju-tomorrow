@@ -109,6 +109,5 @@ College of Intelligence and Computing
 
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-summary-card?username=tju-tomorrow&theme=radical" />
   <img src="https://komarev.com/ghpvc/?username=tju-tomorrow&style=flat-square" alt="Visitor Count">
 </div>
