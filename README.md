@@ -92,7 +92,7 @@ College of Intelligence and Computing
   
   <p>
     <!-- 技术栈 -->
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -108,5 +108,10 @@ College of Intelligence and Computing
 
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tju-tomorrow&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tju-tomorrow&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tju-tomorrow&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tju-tomorrow&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-visitor-badge.glitch.me/badge?page_id=tju-tomorrow.tju-tomorrow" />
   <img src="https://komarev.com/ghpvc/?username=tju-tomorrow&style=flat-square" alt="Visitor Count">
 </div>
