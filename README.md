@@ -88,8 +88,9 @@ College of Intelligence and Computing
 
 <div align="center">
   <h3>💻 Languages and Tools</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tju-tomorrow&layout=compact&theme=radical&hide=html&langs_count=6&card_width=445" alt="Top Languages">
-  
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tju-tomorrow&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tju-tomorrow&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tju-tomorrow&theme=radical" />
   <p>
     <!-- 技术栈 -->
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
@@ -108,10 +109,5 @@ College of Intelligence and Computing
 
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tju-tomorrow&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tju-tomorrow&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tju-tomorrow&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tju-tomorrow&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-visitor-badge.glitch.me/badge?page_id=tju-tomorrow.tju-tomorrow" />
   <img src="https://komarev.com/ghpvc/?username=tju-tomorrow&style=flat-square" alt="Visitor Count">
 </div>
