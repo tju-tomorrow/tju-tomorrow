@@ -108,5 +108,5 @@ College of Intelligence and Computing
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/tju-tomorrow/count.svg" alt="Visitor Count">
+  <img src="https://komarev.com/ghpvc/?username=tju-tomorrow&style=flat-square" alt="Visitor Count">
 </div>
