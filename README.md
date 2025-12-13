@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -25,7 +25,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 18 Public Repositories 
  > 
 > 🔑 21 Private Repositories 
  > 
@@ -54,14 +54,17 @@ Sunday                   218 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               48 mins             █████████████████████████   98.77 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Java                     1 hr 20 mins        █████████░░░░░░░░░░░░░░░░   36.96 % 
+JavaScript               1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   33.55 % 
+Markdown                 43 mins             █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+SQL                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 
 🐱‍💻 Projects: 
-手撕                       45 mins             ███████████████████████░░   92.63 % 
-Code                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-AI-podcast               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+软工                       2 hrs 42 mins       ███████████████████░░░░░░   74.39 % 
+手撕                       52 mins             ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
+Code                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+AI-podcast               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +80,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2025 01:52:42 UTC
+ Last Updated on 13/12/2025 01:46:41 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
