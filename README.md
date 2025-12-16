@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -54,17 +54,17 @@ Sunday                   218 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   38.27 % 
-Java                     1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   29.68 % 
-Markdown                 58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Vue.js                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Go                       14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+JavaScript               2 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   38.16 % 
+Java                     1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   29.60 % 
+Markdown                 58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Vue.js                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Go                       14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 
 🐱‍💻 Projects: 
-软工                       3 hrs 27 mins       ███████████████░░░░░░░░░░   58.21 % 
-手撕                       1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   29.22 % 
-AI-podcast               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-Obsidian Vault           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+软工                       3 hrs 27 mins       ███████████████░░░░░░░░░░   58.03 % 
+手撕                       1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   29.21 % 
+AI-podcast               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Obsidian Vault           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 Code                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 
@@ -81,7 +81,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/12/2025 01:56:56 UTC
+ Last Updated on 16/12/2025 01:54:06 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
