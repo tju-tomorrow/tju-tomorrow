@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -54,18 +54,18 @@ Sunday                   218 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               7 hrs 49 mins       ███████████████░░░░░░░░░░   61.38 % 
-Markdown                 1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-SCSS                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-HTML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+JavaScript               6 hrs 46 mins       ███████████████░░░░░░░░░░   61.22 % 
+Markdown                 1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+SCSS                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 🐱‍💻 Projects: 
-notion-reading-ai        8 hrs 19 mins       ████████████████░░░░░░░░░   65.36 % 
-Code                     1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-internship-re            1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-interview                1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-openai-edge-tts          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+notion-reading-ai        8 hrs 24 mins       ███████████████████░░░░░░   76.09 % 
+internship-re            1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Code                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+interview                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+openai-edge-tts          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +81,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/12/2025 01:52:23 UTC
+ Last Updated on 25/12/2025 01:54:14 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
