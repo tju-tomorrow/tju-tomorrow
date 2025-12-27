@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -21,7 +21,7 @@
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 587 Contributions in the Year 2025
+> 🏆 598 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,21 +32,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                15 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-🌆 Daytime                381 commits         ██████████░░░░░░░░░░░░░░░   38.14 % 
-🌃 Evening                372 commits         █████████░░░░░░░░░░░░░░░░   37.24 % 
-🌙 Night                  231 commits         ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+🌞 Morning                15 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+🌆 Daytime                386 commits         ██████████░░░░░░░░░░░░░░░   38.26 % 
+🌃 Evening                377 commits         █████████░░░░░░░░░░░░░░░░   37.36 % 
+🌙 Night                  231 commits         ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Tuesday                  128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Wednesday                36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-Thursday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Friday                   158 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Saturday                 167 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Sunday                   218 commits         █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+Monday                   127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Tuesday                  128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Wednesday                36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Thursday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Friday                   168 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+Saturday                 167 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Sunday                   218 commits         █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
 ```
 
 
@@ -54,18 +54,17 @@ Sunday                   218 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               8 hrs 53 mins       █████████████████░░░░░░░░   66.98 % 
-Markdown                 1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-SCSS                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+JavaScript               10 hrs 11 mins      ██████████████████░░░░░░░   72.97 % 
+SCSS                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Markdown                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 🐱‍💻 Projects: 
-notion-reading-ai        11 hrs 22 mins      █████████████████████░░░░   85.65 % 
-internship-re            1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-interview                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-openai-edge-tts          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-AI-podcast               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+notion-reading-ai        12 hrs 27 mins      ██████████████████████░░░   89.24 % 
+internship-re            1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+openai-edge-tts          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+interview                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +80,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/12/2025 01:53:31 UTC
+ Last Updated on 27/12/2025 01:51:25 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
