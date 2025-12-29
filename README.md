@@ -21,7 +21,7 @@
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 607 Contributions in the Year 2025
+> 🏆 612 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,20 +33,20 @@
 
 ```text
 🌞 Morning                15 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-🌆 Daytime                387 commits         ██████████░░░░░░░░░░░░░░░   38.05 % 
-🌃 Evening                384 commits         █████████░░░░░░░░░░░░░░░░   37.76 % 
-🌙 Night                  231 commits         ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
+🌆 Daytime                387 commits         █████████░░░░░░░░░░░░░░░░   37.87 % 
+🌃 Evening                387 commits         █████████░░░░░░░░░░░░░░░░   37.87 % 
+🌙 Night                  233 commits         ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Tuesday                  128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Wednesday                36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Thursday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Friday                   168 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Saturday                 175 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Sunday                   218 commits         █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+Monday                   128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Tuesday                  128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Wednesday                36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Thursday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Friday                   168 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Saturday                 175 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Sunday                   222 commits         █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
 ```
 
 
@@ -54,15 +54,15 @@ Sunday                   218 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               8 hrs 8 mins        ███████████████████████░░   90.54 % 
-SCSS                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+JavaScript               6 hrs 57 mins       ██████████████████████░░░   89.36 % 
+SCSS                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-notion-reading-ai        8 hrs 56 mins       █████████████████████████   99.34 % 
-internship-re            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+notion-reading-ai        7 hrs 43 mins       █████████████████████████   99.24 % 
+internship-re            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 interview                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
@@ -79,7 +79,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/12/2025 02:04:45 UTC
+ Last Updated on 29/12/2025 02:02:53 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
