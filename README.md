@@ -54,16 +54,14 @@ Sunday                   222 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               6 hrs 57 mins       ██████████████████████░░░   89.36 % 
-SCSS                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+JavaScript               6 hrs 57 mins       ██████████████████████░░░   89.99 % 
+SCSS                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-notion-reading-ai        7 hrs 43 mins       █████████████████████████   99.24 % 
-internship-re            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-interview                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+notion-reading-ai        7 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +77,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2025 02:02:53 UTC
+ Last Updated on 30/12/2025 01:54:46 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
