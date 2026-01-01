@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -21,7 +21,7 @@
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 614 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,15 +54,17 @@ Sunday                   222 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               8 hrs 20 mins       ███████████████████████░░   91.06 % 
-SCSS                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+JavaScript               8 hrs 15 mins       █████████████████████░░░░   82.78 % 
+SCSS                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+SystemVerilog            11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🐱‍💻 Projects: 
-notion-reading-ai        9 hrs 4 mins        █████████████████████████   99.03 % 
-interview                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+notion-reading-ai        8 hrs 59 mins       ███████████████████████░░   90.11 % 
+digital_design           31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+AIBasic                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+interview                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 ```
 
 **I Mostly Code in Python** 
@@ -78,7 +80,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 01:55:04 UTC
+ Last Updated on 01/01/2026 02:06:03 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
