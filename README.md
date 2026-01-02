@@ -11,11 +11,11 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-285%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.19%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -54,17 +54,18 @@ Sunday                   222 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               8 hrs 15 mins       █████████████████████░░░░   82.78 % 
-SCSS                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-SystemVerilog            11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+JavaScript               6 hrs 31 mins       ███████████████████░░░░░░   77.55 % 
+SCSS                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+SystemVerilog            11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🐱‍💻 Projects: 
-notion-reading-ai        8 hrs 59 mins       ███████████████████████░░   90.11 % 
-digital_design           31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-AIBasic                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-interview                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+notion-reading-ai        6 hrs 44 mins       ████████████████████░░░░░   80.12 % 
+interview                43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+digital_design           31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+AIBasic                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Code                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
 **I Mostly Code in Python** 
@@ -80,7 +81,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2026 02:06:03 UTC
+ Last Updated on 02/01/2026 01:56:24 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
