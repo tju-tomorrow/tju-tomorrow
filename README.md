@@ -11,6 +11,8 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.19%20million%20lines%20of%20code-blue)
@@ -27,20 +29,59 @@
  > 
 > 🔑 22 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                15 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+🌆 Daytime                389 commits         ██████████░░░░░░░░░░░░░░░   38.03 % 
+🌃 Evening                386 commits         █████████░░░░░░░░░░░░░░░░   37.73 % 
+🌙 Night                  233 commits         ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Tuesday                  130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Wednesday                36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Thursday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Friday                   167 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Saturday                 175 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Sunday                   222 commits         █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               4 hrs 7 mins        ███████████████████░░░░░░   76.53 % 
+Python                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+SystemVerilog            11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+
+🐱‍💻 Projects: 
+notion-reading-ai        2 hrs 52 mins       █████████████░░░░░░░░░░░░   53.34 % 
+Code                     54 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+interview                43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+digital_design           31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+AIBasic                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   8 repos             ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-C                        4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Python                   8 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+C                        4 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
 
 
- Last Updated on 03/01/2026 01:50:49 UTC
+ Last Updated on 04/01/2026 02:05:59 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
