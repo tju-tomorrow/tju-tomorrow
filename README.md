@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -54,18 +54,16 @@ Sunday                   223 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 12 mins       ████████████████░░░░░░░░░   63.47 % 
-Python                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-SystemVerilog            11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+JavaScript               2 hrs 18 mins       ██████████████████████░░░   86.19 % 
+Bash                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-Code                     1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   32.04 % 
-notion-reading-ai        50 mins             ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
-interview                38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-digital_design           31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-AIBasic                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Code                     1 hr 6 mins         ██████████░░░░░░░░░░░░░░░   41.64 % 
+notion-reading-ai        56 mins             █████████░░░░░░░░░░░░░░░░   35.24 % 
+interview                37 mins             ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +79,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2026 01:56:12 UTC
+ Last Updated on 08/01/2026 01:56:27 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
