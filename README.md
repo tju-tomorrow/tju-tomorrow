@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -54,16 +54,13 @@ Sunday                   223 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 18 mins       ██████████████████████░░░   86.19 % 
-Bash                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+JavaScript               1 hr 59 mins        █████████████████████░░░░   84.25 % 
+HTML                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-Code                     1 hr 6 mins         ██████████░░░░░░░░░░░░░░░   41.64 % 
-notion-reading-ai        56 mins             █████████░░░░░░░░░░░░░░░░   35.24 % 
-interview                37 mins             ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+Code                     2 hrs 8 mins        ███████████████████████░░   90.69 % 
+notion-reading-ai        13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +76,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/01/2026 01:56:27 UTC
+ Last Updated on 09/01/2026 01:57:39 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
