@@ -11,9 +11,9 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2047%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.21%20million%20lines%20of%20code-blue?style=flat)
 
@@ -54,14 +54,16 @@ Sunday                   223 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 7 mins         ███████████████████░░░░░░   75.08 % 
-HTML                     22 mins             ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+JavaScript               2 hrs 34 mins       █████████████████████░░░░   84.50 % 
+HTML                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+C                        5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-Code                     1 hr 18 mins        ██████████████████████░░░   87.39 % 
-notion-reading-ai        11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-interview                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+interview                1 hr 35 mins        █████████████░░░░░░░░░░░░   52.11 % 
+Code                     1 hr 16 mins        ██████████░░░░░░░░░░░░░░░   41.76 % 
+notion-reading-ai        10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +79,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2026 01:53:32 UTC
+ Last Updated on 11/01/2026 02:05:59 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
