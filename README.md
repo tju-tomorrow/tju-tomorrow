@@ -32,21 +32,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                15 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-🌆 Daytime                379 commits         █████████░░░░░░░░░░░░░░░░   37.52 % 
-🌃 Evening                383 commits         █████████░░░░░░░░░░░░░░░░   37.92 % 
-🌙 Night                  233 commits         ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+🌞 Morning                15 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+🌆 Daytime                390 commits         ██████████░░░░░░░░░░░░░░░   38.09 % 
+🌃 Evening                386 commits         █████████░░░░░░░░░░░░░░░░   37.70 % 
+🌙 Night                  233 commits         ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Tuesday                  125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Wednesday                36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Thursday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Friday                   167 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Saturday                 169 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Sunday                   222 commits         █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Monday                   128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Tuesday                  130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Wednesday                36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Thursday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Friday                   167 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Saturday                 175 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Sunday                   223 commits         █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
 ```
 
 
@@ -54,18 +54,18 @@ Sunday                   222 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 36 mins       █████████████████████░░░░   85.09 % 
-Python                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-C                        5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+JavaScript               3 hrs 46 mins       ██████████████████████░░░   87.65 % 
+Python                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+C                        5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-interview                2 hrs 53 mins       █████████████░░░░░░░░░░░░   53.58 % 
-Code                     1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   30.14 % 
-notion-reading-ai        26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-AIBasic                  25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+interview                2 hrs 53 mins       █████████████████░░░░░░░░   67.34 % 
+Code                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+notion-reading-ai        26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+AIBasic                  25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +81,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/01/2026 01:58:22 UTC
+ Last Updated on 16/01/2026 01:58:29 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
