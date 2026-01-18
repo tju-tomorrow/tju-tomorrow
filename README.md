@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -54,17 +54,15 @@ Sunday                   223 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 46 mins       ██████████████████████░░░   87.56 % 
-Python                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-C                        5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+JavaScript               2 hrs 16 mins       █████████████████████░░░░   83.87 % 
+Python                   25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🐱‍💻 Projects: 
-interview                2 hrs 53 mins       █████████████████░░░░░░░░   67.26 % 
-Code                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-notion-reading-ai        26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-AIBasic                  25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+interview                1 hr 18 mins        ████████████░░░░░░░░░░░░░   48.40 % 
+Code                     31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+notion-reading-ai        26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+AIBasic                  25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
 ```
 
 **I Mostly Code in Python** 
@@ -80,7 +78,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/01/2026 01:52:27 UTC
+ Last Updated on 18/01/2026 02:04:53 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
