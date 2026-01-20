@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -54,17 +54,17 @@ Sunday                   223 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 41 mins        ████████████████████░░░░░   78.73 % 
-Python                   25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+JavaScript               1 hr 46 mins        ████████████████████░░░░░   79.66 % 
+Python                   25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-notion-reading-ai        40 mins             ████████░░░░░░░░░░░░░░░░░   31.71 % 
-Code                     31 mins             ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-interview                30 mins             ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
-AIBasic                  25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+notion-reading-ai        58 mins             ███████████░░░░░░░░░░░░░░   43.28 % 
+Code                     31 mins             ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+AIBasic                  25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+interview                18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 ```
 
 **I Mostly Code in Python** 
@@ -80,7 +80,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/01/2026 02:03:02 UTC
+ Last Updated on 20/01/2026 01:57:46 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
