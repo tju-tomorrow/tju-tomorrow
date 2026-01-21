@@ -54,17 +54,16 @@ Sunday                   223 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 46 mins        ████████████████████░░░░░   79.66 % 
-Python                   25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+JavaScript               1 hr                ██████████████████████░░░   86.54 % 
+Python                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-notion-reading-ai        58 mins             ███████████░░░░░░░░░░░░░░   43.28 % 
-Code                     31 mins             ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
-AIBasic                  25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-interview                18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+notion-reading-ai        31 mins             ███████████░░░░░░░░░░░░░░   45.32 % 
+Code                     29 mins             ███████████░░░░░░░░░░░░░░   42.79 % 
+AIBasic                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
 ```
 
 **I Mostly Code in Python** 
@@ -80,7 +79,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/01/2026 01:57:46 UTC
+ Last Updated on 21/01/2026 02:00:35 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
