@@ -54,10 +54,10 @@ Sunday                   223 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-notion-reading-ai        17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -73,7 +73,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/01/2026 02:07:36 UTC
+ Last Updated on 27/01/2026 02:04:55 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
