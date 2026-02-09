@@ -11,7 +11,7 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -54,13 +54,11 @@ Sunday                   226 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               54 mins             ███████████████████░░░░░░   77.77 % 
-JSON                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-SCSS                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+JavaScript               40 mins             ███████████████████████░░   90.68 % 
+SCSS                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 
 🐱‍💻 Projects: 
-Super-Notion-AI-Desktop  1 hr 10 mins        █████████████████████████   100.00 % 
+Super-Notion-AI-Desktop  44 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -76,7 +74,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/02/2026 02:46:53 UTC
+ Last Updated on 09/02/2026 02:32:01 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
