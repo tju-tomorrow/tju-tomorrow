@@ -18,7 +18,6 @@ jobs:
           SHOW_LINES_OF_CODE: "True"          # 显示代码行数
           SHOW_TOTAL_CODE_TIME: "True"        # 显示总编码时间
           SHOW_TIMEZONE: "false"      # 隐藏时区信息
-          HIDE_PROJECTS_WITHOUT_ACTIVITIES: "true"
           
           # 时间相关
           SHOW_DAYS_OF_WEEK: "True"          # 显示每周工作日数据
