@@ -69,8 +69,7 @@ check "访客数"      "https://komarev.com/ghpvc/?username=$USER_NAME&color=ff8
 echo
 
 echo "── 自己仓库里生成的（最稳，第三方挂了也不影响）──"
-check "贪吃蛇·浅色" "https://raw.githubusercontent.com/$REPO/output/snake.svg"
-check "贪吃蛇·深色" "https://raw.githubusercontent.com/$REPO/output/snake-dark.svg"
+check "贡献热力图"    "https://raw.githubusercontent.com/$REPO/output/heatmap.svg"
 echo
 
 echo "── 已知已停服，留在这里是为了提醒别再往里加 ──"

@@ -1,0 +1,31 @@
+name: Generate Contribution Heatmap
+
+on:
+  schedule:
+    - cron: "0 3 * * *"      # 每天 UTC 3 点更新一次
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 生成贡献热力图
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          mkdir -p dist
+          python3 scripts/gen-heatmap.py --fetch -o dist/heatmap.svg
+
+      - name: 推送到 output 分支
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}

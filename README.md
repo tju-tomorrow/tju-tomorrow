@@ -94,26 +94,14 @@ College of Intelligence and Computing
 <div align="center">
   <h3>💻 Languages and Tools</h3>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tju-tomorrow&show_icons=true&hide_border=true&border_radius=16&bg_color=45,2a1b3d,1a0f2e&title_color=ffb3d9&text_color=ffd6e8&icon_color=c084fc" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tju-tomorrow&layout=compact&hide_border=true&border_radius=16&bg_color=45,2a1b3d,1a0f2e&title_color=ffb3d9&text_color=ffd6e8&icon_color=c084fc" alt="Top Languages">
-
-  <br>
-
-  <img src="https://streak-stats.demolab.com?user=tju-tomorrow&hide_border=true&border_radius=16&locale=zh&background=1A0F2E&stroke=C084FC&ring=FF8FAB&fire=FF5C8A&currStreakLabel=FF8FAB&currStreakNum=FFD6E8&sideNums=FFB3D9&sideLabels=FFD6E8&dates=C0A8D9" alt="Streak Stats">
-
-  <br><br>
-
   <img src="https://skillicons.dev/icons?i=go,cpp,java,js,ts,react,vue,nodejs,webpack,mysql,py,git,linux,vscode&perline=7" alt="Skills">
 </div>
 
 
 <div align="center">
-  <h3>🐍 Contribution Snake</h3>
+  <h3>🌸 Contribution Heatmap</h3>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tju-tomorrow/tju-tomorrow/output/snake-dark.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/tju-tomorrow/tju-tomorrow/output/snake.svg">
-  </picture>
+  <img alt="Contribution Heatmap" src="https://raw.githubusercontent.com/tju-tomorrow/tju-tomorrow/output/heatmap.svg">
 </div>
 
 
