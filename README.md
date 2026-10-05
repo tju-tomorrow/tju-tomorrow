@@ -5,10 +5,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/tju-tomorrow/Image/main/img/WechatIMG412.jpg" alt="profile banner" width="15%">
 </div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tju-tomorrow&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
-
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2015%20mins-blue?style=flat)
