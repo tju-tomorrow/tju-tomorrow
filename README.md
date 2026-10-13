@@ -8,11 +8,11 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-464%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-464%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-167%20hrs%2036%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.16%20million%20lines%20of%20code-blue?style=flat)
 
@@ -53,16 +53,42 @@ Sunday                   414 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               14 hrs 15 mins      ███████████████░░░░░░░░░░   61.02 % 
+Markdown                 4 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Rust                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Python                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+JavaScript               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+self-notion              19 hrs 20 mins      █████████████████████░░░░   82.71 % 
+simple-notion            1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Code                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+AFFiNE                   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+自然语言处理                   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 23 hrs 22 mins (99.97%)
+
+✍️ 65,849 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 12,755,775 Input Tokens, 7,385,880 Output Tokens
+
+💵 $3970.95 Estimated AI Cost This Week
+
+🧠 63 AI Sessions, 415 AI Prompts
+
+DeepSeek                 68,411 lines        █████████████████████████   99.97 % 
+Qwen                     19 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 662 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -78,7 +104,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 05:26:38 UTC
+ Last Updated on 13/10/2026 06:24:37 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
