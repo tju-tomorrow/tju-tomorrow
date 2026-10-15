@@ -8,9 +8,9 @@
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-464%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-464%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-167%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-167%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
@@ -53,40 +53,39 @@ Sunday                   414 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               10 hrs 38 mins      ████████████████░░░░░░░░░   64.11 % 
-Markdown                 2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-Rust                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Python                   1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-TSConfig                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+TypeScript               4 hrs 11 mins       █████████████░░░░░░░░░░░░   51.06 % 
+Markdown                 1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+Python                   1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Rust                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🐱‍💻 Projects: 
-self-notion              15 hrs              ███████████████████████░░   90.32 % 
-Code                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-自然语言处理                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-visitor-stats            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-cc-agents_desktop        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+self-notion              6 hrs 21 mins       ███████████████████░░░░░░   77.38 % 
+Code                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+自然语言处理                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+visitor-stats            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+ccagents                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 36 mins (99.96%)
+⏱ AI Coding Time: 8 hrs 2 mins (97.87%)
 
-✍️ 44,843 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 21,430 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,329,002 Input Tokens, 5,386,548 Output Tokens
+🔤 3,454,185 Input Tokens, 3,179,963 Output Tokens
 
-💵 $3142.57 Estimated AI Cost This Week
+💵 $1635.81 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 306 AI Prompts
+🧠 19 AI Sessions, 104 AI Prompts
 
-DeepSeek                 46,434 lines        █████████████████████████   99.96 % 
-Qwen                     19 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+DeepSeek                 22,182 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 299 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 481 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -103,7 +102,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 04:25:51 UTC
+ Last Updated on 15/10/2026 04:08:20 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
