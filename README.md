@@ -53,39 +53,38 @@ Sunday                   414 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 14 mins        █████████████░░░░░░░░░░░░   52.39 % 
-Markdown                 42 mins             ████████░░░░░░░░░░░░░░░░░   30.31 % 
-TypeScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Markdown                 1 hr 23 mins        ████████████████░░░░░░░░░   62.56 % 
+Python                   27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🐱‍💻 Projects: 
-Code                     55 mins             ██████████░░░░░░░░░░░░░░░   39.22 % 
-自然语言处理                   41 mins             ███████░░░░░░░░░░░░░░░░░░   29.21 % 
-self-notion              31 mins             ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-visitor-stats            4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-ccagents                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Code                     1 hr 42 mins        ███████████████████░░░░░░   76.05 % 
+自然语言处理                   20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+chenkaixuan              11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+cc-agents_desktop        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 11 mins (92.6%)
+⏱ AI Coding Time: 2 hrs 3 mins (92.18%)
 
-✍️ 3,867 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,347 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 398,876 Input Tokens, 390,708 Output Tokens
+🔤 273,245 Input Tokens, 239,875 Output Tokens
 
-💵 $234.47 Estimated AI Cost This Week
+💵 $125.15 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 24 AI Prompts
+🧠 3 AI Sessions, 10 AI Prompts
 
-DeepSeek                 4,166 lines         █████████████████████████   100.00 % 
+DeepSeek                 2,438 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 471 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 882 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -102,7 +101,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 04:04:01 UTC
+ Last Updated on 17/10/2026 03:54:51 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
