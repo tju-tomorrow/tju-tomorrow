@@ -53,23 +53,22 @@ Sunday                   414 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 23 mins        ████████████████░░░░░░░░░   62.56 % 
-Python                   27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Markdown                 1 hr 23 mins        ████████████████░░░░░░░░░   62.44 % 
+Python                   27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
 Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🐱‍💻 Projects: 
-Code                     1 hr 42 mins        ███████████████████░░░░░░   76.05 % 
-自然语言处理                   20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-chenkaixuan              11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-cc-agents_desktop        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Code                     1 hr 42 mins        ███████████████████░░░░░░   76.30 % 
+自然语言处理                   20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+chenkaixuan              11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 3 mins (92.18%)
+⏱ AI Coding Time: 2 hrs 3 mins (92.48%)
 
 ✍️ 2,347 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -101,7 +100,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 04:10:17 UTC
+ Last Updated on 20/10/2026 04:23:02 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
