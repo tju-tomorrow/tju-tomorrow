@@ -12,7 +12,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-167%20hrs%2043%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.16%20million%20lines%20of%20code-blue?style=flat)
 
@@ -53,37 +53,35 @@ Sunday                   414 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 23 mins        ████████████████░░░░░░░░░   62.44 % 
-Python                   27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+JSON                     10 mins             ███████████████░░░░░░░░░░   58.32 % 
+Python                   4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+Text                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
 
 🐱‍💻 Projects: 
-Code                     1 hr 42 mins        ███████████████████░░░░░░   76.30 % 
-自然语言处理                   20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-chenkaixuan              11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+自然语言处理                   16 mins             ████████████████████████░   96.17 % 
+Code                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 3 mins (92.48%)
+⏱ AI Coding Time: 7 mins (41.68%)
 
-✍️ 2,347 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 499 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 273,245 Input Tokens, 239,875 Output Tokens
+🔤 88,202 Input Tokens, 45,757 Output Tokens
 
-💵 $125.15 Estimated AI Cost This Week
+💵 $32.76 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 10 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
-DeepSeek                 2,438 lines         █████████████████████████   100.00 % 
+DeepSeek                 499 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 882 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 2,428 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -100,7 +98,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 04:23:02 UTC
+ Last Updated on 21/10/2026 04:12:25 UTC
 <!--END_SECTION:waka-->
 
 ### 🚀 Quick Facts
